@@ -27,6 +27,6 @@ describe('parsing', function() {
 
   it('Invalid sentence: should return empty object', function() {
     var result = parsing.parseAssignature(invalidSentence);
-    expect(result).to.equal({});
+    expect(JSON.stringify(result)).to.equal(JSON.stringify({}));
   });
 });
