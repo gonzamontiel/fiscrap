@@ -1,0 +1,20 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cheerio": "latest",
+    "express": "latest",
+    "jquery": "^3.1.0",
+    "jsonfile": "^2.3.1",
+    "mocha": "^3.0.2",
+    "osmosis": "^1.0.2",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
