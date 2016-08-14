@@ -2,22 +2,24 @@ var exports = module.exports = {};
 
 exports.parseAssignature = function(asignatura) {
     var replacement = asignatura.trim().replace(
-        /([\d]{2})\.([\d]{2})([^\<]*)\<a\s*href=\"([^\"]*)\".*\<\/a\>.*/,
+        /([\d]{2})?\.?([\d]{2})?([^\<]*)\<a\s*href=\"([^\"]*)\".*\<\/a\>.*/,
         "$1;$2;$3;$4"
     );
     if (replacement === asignatura) {
         return {};
     }
-    var replacementSplit = replacement.split(';')
-    var name = replacementSplit[2];
-    if (name) {
-        name = name.replace(/^[\s-_]+/g, "").replace(/[\s-_]+$/g, "");
-    }
+    var split = replacement.split(';')
+    var code = split[0] ? split[0] : '';
+    var number = split[1] ? split[1] : '';
+    var link = split[3] ? split[3] : '';
+    var name = split[2] ?
+        split[2].replace(/^[\s-_]+/g, "").replace(/[\s-_]+$/g, "")
+        : '';
     return {
-        "code": replacementSplit[0],
-        "number": replacementSplit[1],
+        "code": code,
+        "number": number,
         "name": name,
-        "link": replacementSplit[3],
+        "link": link,
     };
 }
 
