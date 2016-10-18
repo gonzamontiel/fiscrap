@@ -1,14 +1,11 @@
 var exports = module.exports = {};
 
-exports.parseAssignature = function(asignatura) {
-    var replacement = asignatura.trim().replace(
-        /([\d]{2})?\.?([\d]{2})?([^\<]*)\<a\s*href=\"([^\"]*)\".*\<\/a\>.*/,
-        "$1;$2;$3;$4"
-    );
+exports.parseCourse = function(asignatura) {
+    var replacement = asignatura.trim().replace(/([\d]{2})?\.?([\d]{2})?([^\<]*)\<a\s*href=\"([^\"]*)\".*\<\/a\>.*/, "$1;$2;$3;$4");
     if (replacement === asignatura) {
         return {};
     }
-    var split = replacement.split(';')
+    var split = replacement.split(';');
     var code = split[0] ? split[0] : '';
     var number = split[1] ? split[1] : '';
     var link = split[3] ? split[3] : '';
@@ -21,11 +18,11 @@ exports.parseAssignature = function(asignatura) {
         "name": name,
         "link": link,
     };
-}
+};
 
 exports.removeEmptyLines = function(string) {
     return string.replace(/^\s*[\r\n]/gm, '');
-}
+};
 
 exports.removeHtmlChars = function(string) {
     return string

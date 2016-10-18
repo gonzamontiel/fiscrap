@@ -1,4 +1,4 @@
-# fiscrap
+# Scrapper-fiuba
 
-Scrapping using Osmosis (https://github.com/rchipka/node-osmosis)
-of www.fi.uba.ar to obtain information of assignatures, exam dates, etc.
+Scrapping of www.fi.uba.ar using Osmosis (https://github.com/rchipka/node-osmosis).
+To retrieve innformation such as courses, exam dates, near events, etc.

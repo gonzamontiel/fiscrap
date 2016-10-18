@@ -12,7 +12,7 @@ var multilineString = "   \nlinea con algo\n linea con algo \r\n    \n\r"
 
 describe('parsing', function() {
     it('Happy case: should return an object with four members', function() {
-        var result = parsing.parseAssignature(normal);
+        var result = parsing.parseCourse(normal);
         expect(result.code).to.equal('70');
         expect(result.number).to.equal('01');
         expect(result.name).to.equal('Geometría Proyectiva');
@@ -20,7 +20,7 @@ describe('parsing', function() {
     });
 
     it('With symbols in name: should return an object with four members', function() {
-        var result = parsing.parseAssignature(symbols);
+        var result = parsing.parseCourse(symbols);
         expect(result.code).to.equal('70');
         expect(result.number).to.equal('01');
         expect(result.name).to.equal('Geometría Proyectiva');
@@ -28,12 +28,12 @@ describe('parsing', function() {
     });
 
     it('Invalid sentence: should return empty object', function() {
-        var result = parsing.parseAssignature(invalidSentence);
+        var result = parsing.parseCourse(invalidSentence);
         expect(JSON.stringify(result)).to.equal(JSON.stringify({}));
     });
 
     it('No Code: should return just name and link', function() {
-        var result = parsing.parseAssignature(noCode);
+        var result = parsing.parseCourse(noCode);
         expect(result.code).to.equal('');
         expect(result.number).to.equal('');
         expect(result.name).to.equal('Geometría Proyectiva');

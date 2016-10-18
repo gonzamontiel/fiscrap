@@ -1,0 +1,7240 @@
+[
+  {
+    "code": "74",
+    "number": "01",
+    "name": "Hormigón I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7401.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "02",
+    "name": "Mecánica de Suelos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7402.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "03",
+    "name": "Arquitectura y Planificación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7403.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "04",
+    "name": "Construcciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/7404.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "05",
+    "name": "Hormigón II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7405.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "06",
+    "name": "Tecnología del Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/7406.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "07",
+    "name": "Instalaciones de Edificios",
+    "link": "http://www.fi.uba.ar/sites/default/files/7407.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "08",
+    "name": "Presas",
+    "link": "http://www.fi.uba.ar/sites/default/files/7408.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "09",
+    "name": "Maquinarias de la Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/7409.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "10",
+    "name": "Urbanismo",
+    "link": "http://www.fi.uba.ar/sites/default/files/7410.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "11",
+    "name": "Cimentaciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/7411.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "12",
+    "name": "Estructuras Metálicas I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7412.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "13",
+    "name": "Estructuras Metálicas II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7413.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "14",
+    "name": "Tecnología del Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/7414.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "15",
+    "name": "Patología de la Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/7415.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "16",
+    "name": "Estructuras de Madera",
+    "link": "http://www.fi.uba.ar/sites/default/files/7416.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "17",
+    "name": "Sistemas Constructivos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7417.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "18",
+    "name": "Sistemas Estructurales",
+    "link": "http://www.fi.uba.ar/sites/default/files/7418.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "19",
+    "name": "Diseño Estructural",
+    "link": "http://www.fi.uba.ar/sites/default/files/7419.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "20",
+    "name": "Ejecución de Estructuras de Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/7420.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "21",
+    "name": "Inspección y Ejecución de Estructuras de Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/7421.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "74",
+    "number": "99",
+    "name": "Trabajo Prof. de Ing. Civil",
+    "link": "http://www.fi.uba.ar/sites/default/files/7499.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "01",
+    "name": "Hormigón I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9401.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "02",
+    "name": "Arquitectura y Planificación Urbana",
+    "link": "http://www.fi.uba.ar/sites/default/files/9402.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "03",
+    "name": "Construcciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/9403.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "04",
+    "name": "Hormigón II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9404.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "05",
+    "name": "Instalaciones en Obras Civiles I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9405.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "06",
+    "name": "Presas",
+    "link": "http://www.fi.uba.ar/sites/default/files/9406.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "07",
+    "name": "Maquinarias de la Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/9407.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "08",
+    "name": "Urbanismo",
+    "link": "http://www.fi.uba.ar/sites/default/files/9408.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "09",
+    "name": "Geotécnica Aplicada",
+    "link": "http://www.fi.uba.ar/sites/default/files/9409.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "10",
+    "name": "Estructuras Metálicas I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9410.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "11",
+    "name": "Estructuras Metálicas II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9411.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "12",
+    "name": "Tecnología del Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/9412.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "13",
+    "name": "Patología de la Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/9413.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "14",
+    "name": "Estructuras de Madera",
+    "link": "http://www.fi.uba.ar/sites/default/files/9414.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "15",
+    "name": "Sistemas Constructivos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9415.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "16",
+    "name": "Sistemas Estructurales",
+    "link": "http://www.fi.uba.ar/sites/default/files/9416.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "17",
+    "name": "Diseño Estructural",
+    "link": "http://www.fi.uba.ar/sites/default/files/9417.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "18",
+    "name": "Inspección y Ejecución de Estructuras de Hormigón",
+    "link": "http://www.fi.uba.ar/sites/default/files/9418.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "19",
+    "name": "Materiales No Tradicionales en la Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/9419.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "94",
+    "number": "20",
+    "name": "Instalaciones en Obras Civiles II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9420.pdf",
+    "depto": "Construcciones y Estructuras"
+  },
+  {
+    "code": "65",
+    "number": "00",
+    "name": "Tesis de Ingeniería Electricista",
+    "link": "/archivos/6500.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "01",
+    "name": "Electrotecnia",
+    "link": "http://www.fi.uba.ar/archivos/6501.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "02",
+    "name": "Introducción a Circuitos Eléctricos",
+    "link": "/archivos/6502.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "03",
+    "name": "Electrotecnia General A",
+    "link": "http://www.fi.uba.ar/archivos/6503.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "04",
+    "name": "Electrotecnia General B",
+    "link": "http://www.fi.uba.ar/archivos/6504.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "05",
+    "name": "Electrotecnia General C",
+    "link": "http://www.fi.uba.ar/archivos/6505.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "06",
+    "name": "Máquinas Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/6506.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "07",
+    "name": "Mediciones Eléctricas I",
+    "link": "/archivos/6507.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "08",
+    "name": "Mediciones Eléctricas II",
+    "link": "/archivos/6508.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "09",
+    "name": "Teoría de Circuitos",
+    "link": "http://www.fi.uba.ar/archivos/6509.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "10",
+    "name": "Teoría de Campos",
+    "link": "http://www.fi.uba.ar/archivos/6510.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "11",
+    "name": "Tecnología de Materiales I",
+    "link": "http://www.fi.uba.ar/archivos/6511.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "12",
+    "name": "Tecnología de Materiales II",
+    "link": "http://www.fi.uba.ar/archivos/6512.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "13",
+    "name": "Teoría de Máquinas Eléctricas I",
+    "link": "http://www.fi.uba.ar/archivos/6513.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "14",
+    "name": "Teoría de Máquinas Eléctricas II",
+    "link": "http://www.fi.uba.ar/archivos/6514.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "15",
+    "name": "Sistemas Eléctricos de Potencia",
+    "link": "http://www.fi.uba.ar/archivos/6515.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "16",
+    "name": "Transm. y Dist. de la Energía Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/6516.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "17",
+    "name": "Centrales Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/6517.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "18",
+    "name": "Prod. Tran. y Dis. de la Energía Eléctrica",
+    "link": "/archivos/6518.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "19",
+    "name": "Instalación Eléctrica Industrial",
+    "link": "/archivos/6519.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "20",
+    "name": "Calor y Electroquímica",
+    "link": "/archivos/6520.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "21",
+    "name": "Accionamientos",
+    "link": "http://www.fi.uba.ar/archivos/6521.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "22",
+    "name": "Aplicac. Indust. de la Energ. Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/6522.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "23",
+    "name": "Construcción de Máquinas y Equipos",
+    "link": "/archivos/6523.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "24",
+    "name": "Cálculos de Máquinas Eléctricas",
+    "link": "/archivos/6524.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "25",
+    "name": "Construcciones Electromecánicas",
+    "link": "http://www.fi.uba.ar/archivos/6525.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "26",
+    "name": "Electrónica de Potencia",
+    "link": "/archivos/6526.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "27",
+    "name": "Control Avanzado y Robótica",
+    "link": "/archivos/6527.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "28",
+    "name": "Control de Procesos Industriales",
+    "link": "http://www.fi.uba.ar/archivos/6528.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "29",
+    "name": "Electrónica Industrial",
+    "link": "/archivos/6529.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "30",
+    "name": "Electrotecnia General D",
+    "link": "http://www.fi.uba.ar/archivos/6530.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "31",
+    "name": "Estaciones Transformadores",
+    "link": "/archivos/6531.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "32",
+    "name": "Protecciones Eléctricas",
+    "link": "/archivos/6532.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "33",
+    "name": "Economía de la Energía Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/6533.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "34",
+    "name": "Luminotecnia",
+    "link": "http://www.fi.uba.ar/archivos/6534.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "35",
+    "name": "Energías no convencionales",
+    "link": "/archivos/6535.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "36",
+    "name": "Medidas Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/6536.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "37",
+    "name": "Energías Renovables",
+    "link": "http://www.fi.uba.ar/archivos/6537.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "38",
+    "name": "Medidas Eléctricas Especiales",
+    "link": "http://www.fi.uba.ar/archivos/6538.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "39",
+    "name": "Metrología y Téc. de Calibración Eléct.",
+    "link": "http://www.fi.uba.ar/archivos/6539.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "40",
+    "name": "Uso Eficiente de la Energía Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/6540.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "41",
+    "name": "Estaciones Transform. y de Distribución",
+    "link": "http://www.fi.uba.ar/archivos/6541.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "42",
+    "name": "Sistemas de Protecciones Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/6542.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "43",
+    "name": "Ingeniería de las Instalaciones I",
+    "link": "http://www.fi.uba.ar/archivos/6543.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "44",
+    "name": "Sistemas de Energía",
+    "link": "/archivos/6544.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "45",
+    "name": "Regulación de Servicios Públicos",
+    "link": "http://www.fi.uba.ar/archivos/6545.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "46",
+    "name": "Energía Eólica, Hidráulica y Marina",
+    "link": "/archivos/6546.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "47",
+    "name": "Energía Solar, Geotérmica y de Biomasa",
+    "link": "/archivos/6547.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "48",
+    "name": "Laboratorio de Instalaciones Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/6548.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "65",
+    "number": "99",
+    "name": "Trabajo Profesional de Ing. Electricista",
+    "link": "http://www.fi.uba.ar/archivos/6599.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "00",
+    "name": "Tesis de Ingeniería Electricista",
+    "link": "/archivos/8500.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "01",
+    "name": "Introducción a la Ingeniería Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/8501.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "02",
+    "name": "Electrotecnia",
+    "link": "http://www.fi.uba.ar/archivos/8502.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "03",
+    "name": "Teoría de Circuitos y Sistemas",
+    "link": "http://www.fi.uba.ar/archivos/8503.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "04",
+    "name": "Campos Electromagnéticos",
+    "link": "http://www.fi.uba.ar/archivos/8504.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "05",
+    "name": "Medidas Eléctricas",
+    "link": "http://www.fi.uba.ar/archivos/8505.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "06",
+    "name": "Máquinas Eléctricas I",
+    "link": "http://www.fi.uba.ar/archivos/8506.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "07",
+    "name": "Máquinas Eléctricas II",
+    "link": "http://www.fi.uba.ar/archivos/8507.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "08",
+    "name": "Tecnología de Materiales Eléctricos",
+    "link": "http://www.fi.uba.ar/archivos/8508",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "09",
+    "name": "Diagnósticos Eléctricos y Ensayos",
+    "link": "http://www.fi.uba.ar/archivos/8509.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "10",
+    "name": "Construcciones Electromecánicas",
+    "link": "/archivos/8510.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "10",
+    "name": "979 Construcciones Electromecánicas",
+    "link": "/archivos/8510-979.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "11",
+    "name": "Instalaciones de Baja Tensión y Luminotecnia",
+    "link": "http://www.fi.uba.ar/sites/default/files/8511.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "12",
+    "name": "Sistemas Eléctricos de Potencia",
+    "link": "http://www.fi.uba.ar/sites/default/files/8512.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "13",
+    "name": "Centrales Eléctricas",
+    "link": "http://www.fi.uba.ar/sites/default/files/8513.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "14",
+    "name": "Transmisión y Distribución de la Energía Eléctrica",
+    "link": "http://www.fi.uba.ar/sites/default/files/8514.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "15",
+    "name": "Protecciones Eléctricas y Equipos de Maniobra",
+    "link": "http://www.fi.uba.ar/archivos/8515.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "16",
+    "name": "Electrónica de Potencia",
+    "link": "http://www.fi.uba.ar/archivos/8516.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "17",
+    "name": "Economía de la Energía Eléctrica",
+    "link": "/archivos/8517.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "18",
+    "name": "Accionamientos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8518.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "19",
+    "name": "Luminotecnia",
+    "link": "/archivos/8519.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "20",
+    "name": "Energías Renovables",
+    "link": "http://www.fi.uba.ar/sites/default/files/8520.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "21",
+    "name": "Uso Eficiente de la Energía Eléctrica",
+    "link": "/archivos/8521.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "22",
+    "name": "Metrología y Técnicas de Calibración Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/8522.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "23",
+    "name": "Medición de Magnitudes Física por Medios Eléctricos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8523.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "24",
+    "name": "Mediciones en AT",
+    "link": "http://www.fi.uba.ar/sites/default/files/8524.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "25",
+    "name": "Estaciones Transformadoras y de Distribución",
+    "link": "/archivos/8525.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "26",
+    "name": "Dinámica del SEP",
+    "link": "/archivos/8526.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "27",
+    "name": "Comunicaciones y Telecontrol",
+    "link": "http://www.fi.uba.ar/sites/default/files/8527.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "28",
+    "name": "Seminario de Ingeniería Electricista I",
+    "link": "http://www.fi.uba.ar/archivos/8528.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "29",
+    "name": "Seminario de Ingeniería Eléctricista II",
+    "link": "http://www.fi.uba.ar/archivos/8529.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "30",
+    "name": "Proyecto de Centrales Hidroeléctrica",
+    "link": "/archivos/8530.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "31",
+    "name": "Proyecto de Centrales Termoeléctricas",
+    "link": "/archivos/8531.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "32",
+    "name": "Proyecto de Centrales Fotovoltaicas y Eólicas",
+    "link": "/archivos/8532.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "33",
+    "name": "Abastecimiento Auxiliar de la Energía Eléctrica",
+    "link": "http://www.fi.uba.ar/archivos/8533.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "34",
+    "name": "Regulación de Servicios Públicos",
+    "link": "/archivos/8534.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "35",
+    "name": "Electrotecnia General C",
+    "link": "http://www.fi.uba.ar/sites/default/files/85.35%20Electrotecnia%20C.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "36",
+    "name": "Máquinas Eléctricas",
+    "link": "/archivos/8536.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "37",
+    "name": "Laboratorio de Instalaciones Eléctricas",
+    "link": "/archivos/8537.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "38",
+    "name": "Electrotecnia General",
+    "link": "http://www.fi.uba.ar/sites/default/files/8538.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "54",
+    "name": "Máquinas Eléctricas",
+    "link": "http://www.fi.uba.ar/sites/default/files/8554.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "55",
+    "name": "Laboratorio de Instalaciones Eléctricas",
+    "link": "http://www.fi.uba.ar/sites/default/files/8555.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "85",
+    "number": "99",
+    "name": "Trabajo Profesional de Ingeniería Electricista",
+    "link": "/archivos/8599.pdf",
+    "depto": "Electrotecnia"
+  },
+  {
+    "code": "66",
+    "number": "00",
+    "name": "Tesis de Ingeniería Electrónica",
+    "link": "/archivos/6600.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "01",
+    "name": "Técnica Digital",
+    "link": "http://www.fi.uba.ar/archivos/6601.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "02",
+    "name": "Laboratorio",
+    "link": "http://www.fi.uba.ar/archivos/6602.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "03",
+    "name": "Electrónica General",
+    "link": "http://www.fi.uba.ar/archivos/6603.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "04",
+    "name": "Electrónica I",
+    "link": "http://www.fi.uba.ar/archivos/6604.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "05",
+    "name": "Electrónica II",
+    "link": "http://www.fi.uba.ar/archivos/6605.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "06",
+    "name": "Análisis de Circuitos",
+    "link": "http://www.fi.uba.ar/archivos/6606.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "07",
+    "name": "Señales y Sistemas",
+    "link": "http://www.fi.uba.ar/sites/default/files/6607_0.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "08",
+    "name": "Circuitos Electrónicos I",
+    "link": "http://www.fi.uba.ar/archivos/6608.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "09",
+    "name": "Laboratorio de Microcomputadoras",
+    "link": "http://www.fi.uba.ar/archivos/6609.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "10",
+    "name": "Circuitos Electrónicos II",
+    "link": "http://www.fi.uba.ar/archivos/6610.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "11",
+    "name": "Ejer. Prof. de la Ing. Electrónica",
+    "link": "www.fi.uba.ar/archivos/6611.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "12",
+    "name": "Introducción a Proyectos",
+    "link": "http://www.fi.uba.ar/archivos/6612.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "14",
+    "name": "Electrónica I",
+    "link": "/archivos/6614.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "15",
+    "name": "Procesos Estocásticos",
+    "link": "/archivos/6615.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "16",
+    "name": "Estructura de Datos",
+    "link": "/archivos/6616.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "17",
+    "name": "Sistemas Digitales",
+    "link": "http://www.fi.uba.ar/archivos/6617.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "18",
+    "name": "Teoría de Control I",
+    "link": "http://www.fi.uba.ar/archivos/6618.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "19",
+    "name": "Circuitos de Pulsos",
+    "link": "http://www.fi.uba.ar/archivos/6619.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "20",
+    "name": "Organiz. de Computadoras",
+    "link": "http://www.fi.uba.ar/archivos/6620.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "21",
+    "name": "Comunicación de Datos",
+    "link": "http://www.fi.uba.ar/archivos/6621.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "22",
+    "name": "Laboratorio de Comunicaciones I",
+    "link": "/archivos/6622.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "23",
+    "name": "Teoría de las Telecomunicaciones",
+    "link": "/archivos/6623.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "24",
+    "name": "Teoría de la Inf. y Codificac.",
+    "link": "http://www.fi.uba.ar/archivos/6624.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "25",
+    "name": "Dispositivos Semiconductores",
+    "link": "http://www.fi.uba.ar/archivos/6625.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "26",
+    "name": "Arquitecturas Paralelas",
+    "link": "http://www.fi.uba.ar/archivos/6626.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "27",
+    "name": "Electrónica de Potencia",
+    "link": "http://www.fi.uba.ar/archivos/6627.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "28",
+    "name": "Teoría de Control II",
+    "link": "http://www.fi.uba.ar/archivos/6628.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "29",
+    "name": "Control Indust. Distribuido",
+    "link": "http://www.fi.uba.ar/archivos/6629.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "30",
+    "name": "Control No Lineal",
+    "link": "http://www.fi.uba.ar/archivos/6630.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "31",
+    "name": "Identif. y Control Adaptativo",
+    "link": "http://www.fi.uba.ar/archivos/6631.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "32",
+    "name": "Robótica",
+    "link": "http://www.fi.uba.ar/archivos/6632.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "33",
+    "name": "Laborat. de Sistemas Digitales",
+    "link": "http://www.fi.uba.ar/archivos/6633.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "34",
+    "name": "Comunicaciones Digitales I",
+    "link": "/archivos/6634.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "35",
+    "name": "Técnica Digital Avanzada",
+    "link": "http://www.fi.uba.ar/archivos/6635.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "36",
+    "name": "Electroacústica",
+    "link": "/archivos/6636.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "37",
+    "name": "Laboratorio de Comunicaciones II",
+    "link": "/archivos/6637.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "38",
+    "name": "Procesamiento de Señales I",
+    "link": "http://www.fi.uba.ar/archivos/6638.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "39",
+    "name": "Procesamiento de Señales II",
+    "link": "http://www.fi.uba.ar/archivos/6639.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "40",
+    "name": "Sistemas de Microondas",
+    "link": "/archivos/6640.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "41",
+    "name": "Televisión",
+    "link": "/archivos/6641.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "42",
+    "name": "Comunicac. Digitales II",
+    "link": "http://www.fi.uba.ar/archivos/6642.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "43",
+    "name": "Ing. Biomédica",
+    "link": "http://www.fi.uba.ar/archivos/6643.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "44",
+    "name": "Instrumentos Electrónicos",
+    "link": "http://www.fi.uba.ar/archivos/6644.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "45",
+    "name": "Laboratorio de Mediciones",
+    "link": "http://www.fi.uba.ar/archivos/6645.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "46",
+    "name": "Procesamiento del Habla",
+    "link": "http://www.fi.uba.ar/archivos/6646.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "47",
+    "name": "Procesam. de Imágenes",
+    "link": "http://www.fi.uba.ar/archivos/6647.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "Seminario de Electrónica_ Álvarez Hamelin",
+    "link": "http://www.fi.uba.ar/archivos/6648.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "163 Seminario de Electrónica_ Beunza",
+    "link": "http://www.fi.uba.ar/archivos/6648-163.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "475 Seminario de Electrónica_ Sinnewald",
+    "link": "http://www.fi.uba.ar/archivos/6648-475.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "476 Seminario de Electrónica_ Hirchoren",
+    "link": "http://www.fi.uba.ar/archivos/6648-476.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "506 Seminario de Electrónica_ Venturino",
+    "link": "http://www.fi.uba.ar/archivos/6648-506.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "507 Seminario de Electrónica_ Utard",
+    "link": "http://www.fi.uba.ar/archivos/6648-507.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "508 Seminario de Electrónica_ Dams",
+    "link": "http://www.fi.uba.ar/archivos/6648-508.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "509 Seminario de Electrónica_ Pagola",
+    "link": "http://www.fi.uba.ar/archivos/6648-509.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "510 Seminario de Electrónica_ Galarza",
+    "link": "http://www.fi.uba.ar/archivos/6648-510.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "511 Seminario de Electrónica_ Ghersin",
+    "link": "http://www.fi.uba.ar/archivos/6648-511.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "512 Seminario de Electrónica_ Tacca",
+    "link": "http://www.fi.uba.ar/archivos/6648-512.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "513 Seminario de Electrónica_ Fernandez",
+    "link": "http://www.fi.uba.ar/archivos/6648-513.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "520 Seminario de Electrónica_ Venturino",
+    "link": "http://www.fi.uba.ar/archivos/6648-520.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "522 Seminario de Electrónica_ Cuervo Diaz",
+    "link": "http://www.fi.uba.ar/archivos/6648-522.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "527 Seminario de Electrónica_ Tacca",
+    "link": "http://www.fi.uba.ar/archivos/6648-527.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "529 Seminario de Electrónica_ España",
+    "link": "http://www.fi.uba.ar/archivos/6648-529.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "531 Seminario de Electrónica_ Alberto",
+    "link": "http://www.fi.uba.ar/archivos/6648-531.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "534 Seminario de Electrónica_ De La Plaza",
+    "link": "http://www.fi.uba.ar/archivos/6648-534.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "549 Seminario de Electrónica_ Lipovetzky",
+    "link": "http://www.fi.uba.ar/archivos/6648-549.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "551 Seminario de Electrónica_ Sellerio",
+    "link": "http://www.fi.uba.ar/archivos/6648-551.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "646 Seminario de Electrónica_ Lutenberg",
+    "link": "http://www.fi.uba.ar/archivos/6648-646.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "648 Seminario de Electrónica_ Galarza",
+    "link": "http://www.fi.uba.ar/archivos/6648-648.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "1032 Seminario de Electrónica",
+    "link": "http://www.fi.uba.ar/archivos/6648-1032.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "48",
+    "name": "1034 Seminario de Electrónica_ Armentano Feijoo",
+    "link": "http://www.fi.uba.ar/archivos/6648-1034.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "49",
+    "name": "Sistemas Biológicos",
+    "link": "http://www.fi.uba.ar/archivos/6649.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "50",
+    "name": "Tecnol. de Componentes",
+    "link": "http://www.fi.uba.ar/archivos/6650.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "51",
+    "name": "Teoría Detección y Estimación",
+    "link": "http://www.fi.uba.ar/archivos/6651.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "52",
+    "name": "Laboratorio de Comunicaciones III",
+    "link": "/archivos/6652.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "53",
+    "name": "Instr. y Control de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/6653.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "54",
+    "name": "Antenas",
+    "link": "/archivos/6654.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "55",
+    "name": "Simulación de Sist. de Control",
+    "link": "http://www.fi.uba.ar/archivos/6655.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "56",
+    "name": "Control Optimo",
+    "link": "http://www.fi.uba.ar/archivos/6656.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "57",
+    "name": "Optoelectrónica",
+    "link": "http://www.fi.uba.ar/archivos/6657.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "58",
+    "name": "Transmisión y Recepción de Comunicaciones",
+    "link": "/archivos/6658.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "59",
+    "name": "Sistemas de Comunicación",
+    "link": "/archivos/6659.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "60",
+    "name": "Diseño y Análisis de Vlsi",
+    "link": "/archivos/6660.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "61",
+    "name": "Tecnología de Circuitos Integrados",
+    "link": "http://www.fi.uba.ar/archivos/6661.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "62",
+    "name": "Redes de Computadoras",
+    "link": "http://www.fi.uba.ar/archivos/6662.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "63",
+    "name": "Redes Neuronales",
+    "link": "http://www.fi.uba.ar/archivos/6663.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "64",
+    "name": "Control Robusto",
+    "link": "http://www.fi.uba.ar/archivos/6664.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "65",
+    "name": "Control Digital",
+    "link": "http://www.fi.uba.ar/archivos/6665.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "Seminario de Electrónica II_ Galarza",
+    "link": "http://www.fi.uba.ar/archivos/6666.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "165 Seminario de Electrónica II_ Tacca",
+    "link": "http://www.fi.uba.ar/archivos/6666-165.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "166 Seminario de Electrónica II_ Utard",
+    "link": "http://www.fi.uba.ar/archivos/6666-166.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "167 Seminario de Electrónica II_ Venturino",
+    "link": "http://www.fi.uba.ar/archivos/6666-167.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "276 Seminario de Electrónica II_ Dams",
+    "link": "http://www.fi.uba.ar/archivos/6666-276.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "277 Seminario de Electrónica II_ Pagola",
+    "link": "http://www.fi.uba.ar/archivos/6666-277.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "477 Seminario de Electrónica II_ Beunza",
+    "link": "http://www.fi.uba.ar/archivos/6666-477.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "515 Seminario de Electrónica II_ Hirchoren",
+    "link": "http://www.fi.uba.ar/archivos/6666-515.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "516 Seminario de Electrónica II_ Sinnewald",
+    "link": "http://www.fi.uba.ar/archivos/6666-516.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "517 Seminario de Electrónica II_ Ghersin",
+    "link": "http://www.fi.uba.ar/archivos/6666-517.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "518 Seminario de Electrónica II_ Fernandez",
+    "link": "http://www.fi.uba.ar/archivos/6666-518.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "521 Seminario de Electrónica II_ Venturino",
+    "link": "http://www.fi.uba.ar/archivos/6666-521.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "523 Seminario de Electrónica II_ Cuervo Díaz",
+    "link": "http://www.fi.uba.ar/archivos/6666-523.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "526 Seminario de Electrónica II_ Álvarez Hamelin",
+    "link": "http://www.fi.uba.ar/archivos/6666-526.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "528 Seminario de Electrónica II_ Tacca",
+    "link": "http://www.fi.uba.ar/archivos/6666-528.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "530 Seminario de Electrónica II_ España",
+    "link": "http://www.fi.uba.ar/archivos/6666-530.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "532 Seminario de Electrónica II_ Alberto",
+    "link": "http://www.fi.uba.ar/archivos/6666-532.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "535 Seminario de Electrónica II_ De La Plaza",
+    "link": "http://www.fi.uba.ar/archivos/6666-535.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "550 Seminario de Electrónica II_ Lipovetzky",
+    "link": "http://www.fi.uba.ar/archivos/6666-550.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "552 Seminario de Electrónica II_ Sellerio",
+    "link": "http://www.fi.uba.ar/archivos/6666-552.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "647 Seminario de Electrónica II_ Lutenberg",
+    "link": "http://www.fi.uba.ar/archivos/6666-647.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "649 Seminario de Electrónica II_ Galarza",
+    "link": "/archivos/6666-649.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "1033 Seminario de Electrónica II",
+    "link": "/archivos/6666-1033.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "66",
+    "name": "1035 Seminario de Electrónica II_Armentano Feijoo",
+    "link": "/archivos/6666-1035.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "67",
+    "name": "Acústica",
+    "link": "http://www.fi.uba.ar/archivos/6667.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "68",
+    "name": "Electroacústica",
+    "link": "http://www.fi.uba.ar/archivos/6668.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "69",
+    "name": "Criptografía y Seguridad Informática",
+    "link": "http://www.fi.uba.ar/archivos/6669.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "70",
+    "name": "Estructura del Computador",
+    "link": "http://www.fi.uba.ar/archivos/6670.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "71",
+    "name": "Sistemas Gráficos",
+    "link": "http://www.fi.uba.ar/archivos/6671.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "72",
+    "name": "Señales e Imágenes en Biomedicina",
+    "link": "http://www.fi.uba.ar/archivos/6672.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "73",
+    "name": "Instal. e Instrumentación Biomédica",
+    "link": "http://www.fi.uba.ar/archivos/6673.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "74",
+    "name": "Señales y Sistemas",
+    "link": "http://www.fi.uba.ar/archivos/6674.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "75",
+    "name": "Procesos Estocásticos",
+    "link": "http://www.fi.uba.ar/archivos/6675.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "76",
+    "name": "Transm. y Recep. de Comun",
+    "link": "http://www.fi.uba.ar/archivos/6676.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "77",
+    "name": "Sistemas de Comunicac.",
+    "link": "http://www.fi.uba.ar/archivos/6677.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "78",
+    "name": "Comunic. Digitales y Analógicas",
+    "link": "http://www.fi.uba.ar/archivos/6678.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "79",
+    "name": "Lab. de Comunicaciones",
+    "link": "http://www.fi.uba.ar/archivos/6679.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "80",
+    "name": "Sistemas Inalambricos",
+    "link": "http://www.fi.uba.ar/archivos/6680.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "81",
+    "name": "Video y Redes de Cable",
+    "link": "http://www.fi.uba.ar/archivos/6681.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "82",
+    "name": "Propagación y Sist. Irradiantes",
+    "link": "http://www.fi.uba.ar/archivos/6682.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "83",
+    "name": "Infraestructura de Redes",
+    "link": "http://www.fi.uba.ar/archivos/6683.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "84",
+    "name": "Protocolos de Accesos Inalámbricos",
+    "link": "/archivos/6684.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "66",
+    "number": "99",
+    "name": "Trabajo Profesional de Ing. Electrónica",
+    "link": "http://www.fi.uba.ar/archivos/6699.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "00",
+    "name": "Tesis de Ingeniería Electrónica",
+    "link": "/archivos/8600.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "01",
+    "name": "Técnica Digital",
+    "link": "http://www.fi.uba.ar/archivos/8601.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "02",
+    "name": "Introducción a la Ingeniería Electrónica",
+    "link": "http://www.fi.uba.ar/archivos/8602.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "03",
+    "name": "Dispositivos Semiconductores",
+    "link": "http://www.fi.uba.ar/archivos/8603.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "04",
+    "name": "Análisis de Circuitos",
+    "link": "http://www.fi.uba.ar/archivos/8604.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "05",
+    "name": "Señales y Sistemas",
+    "link": "http://www.fi.uba.ar/archivos/8605.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "06",
+    "name": "Circuitos Electrónicos",
+    "link": "http://www.fi.uba.ar/archivos/8606.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "07",
+    "name": "Laboratorio de Microprocesadores",
+    "link": "http://www.fi.uba.ar/archivos/8607.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "08",
+    "name": "Control Automático I",
+    "link": "http://www.fi.uba.ar/archivos/8608.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "09",
+    "name": "Procesos Estocásticos",
+    "link": "http://www.fi.uba.ar/archivos/8609.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "10",
+    "name": "Diseño de Circuitos Electrónicos",
+    "link": "/archivos/8610.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "11",
+    "name": "Teoría de la Información y la Codificación",
+    "link": "/archivos/8611.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "12",
+    "name": "Comunicación de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8612.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "13",
+    "name": "Instrumentos Electrónicos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8613.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "14",
+    "name": "Introducción a Proyectos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8614.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "15",
+    "name": "Robótica",
+    "link": "http://www.fi.uba.ar/sites/default/files/8615.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "16",
+    "name": "Control Automático II",
+    "link": "/archivos/8616.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "17",
+    "name": "Control Automático III",
+    "link": "http://www.fi.uba.ar/sites/default/files/8617.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "18",
+    "name": "Control Industrial Distribuido",
+    "link": "/archivos/8618.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "19",
+    "name": "Control Robusto",
+    "link": "http://www.fi.uba.ar/sites/default/files/8619.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "20",
+    "name": "Identificación y Control Adaptativo",
+    "link": "/archivos/8620.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "21",
+    "name": "Instrumentación y Control de Procesos",
+    "link": "/archivos/8621.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "22",
+    "name": "Laboratorio de Control Automático",
+    "link": "http://www.fi.uba.ar/sites/default/files/8622.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "23",
+    "name": "Accionamientos Variables",
+    "link": "http://www.fi.uba.ar/sites/default/files/8623.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "24",
+    "name": "Electrónica de Potencia",
+    "link": "http://www.fi.uba.ar/sites/default/files/8624.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "25",
+    "name": "Comunicaciones Digitales I",
+    "link": "http://www.fi.uba.ar/sites/default/files/8625.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "26",
+    "name": "Comunicaciones Digitales II",
+    "link": "/archivos/8626.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "27",
+    "name": "Infraestructura de Redes Fijas",
+    "link": "/archivos/8627.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "28",
+    "name": "Laboratorio de Comunicaciones",
+    "link": "/archivos/8628.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "29",
+    "name": "Propagación y Sistemas Irradiantes",
+    "link": "/archivos/8629.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "30",
+    "name": "Comunicaciones Digitales III",
+    "link": "/archivos/8630.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "31",
+    "name": "Servicios y Redes de Comunicaciones",
+    "link": "/archivos/8631.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "32",
+    "name": "Sistemas Inalámbricos",
+    "link": "/archivos/8632.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "33",
+    "name": "Electrónica",
+    "link": "http://www.fi.uba.ar/archivos/8633.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "34",
+    "name": "Transmisores y Receptores de Comunicaciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/8634.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "35",
+    "name": "Video Digital",
+    "link": "/archivos/8635.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "36",
+    "name": "Criptografía y Seguridad Informática",
+    "link": "http://www.fi.uba.ar/sites/default/files/8636.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "37",
+    "name": "Organización de Computadoras",
+    "link": "http://www.fi.uba.ar/sites/default/files/8637.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "38",
+    "name": "Arquitecturas Paralelas",
+    "link": "/archivos/8638.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "39",
+    "name": "Redes de Computadoras",
+    "link": "http://www.fi.uba.ar/sites/default/files/8639.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "40",
+    "name": "Laboratorios de Redes de Computadoras",
+    "link": "/archivos/8640.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "41",
+    "name": "Sistemas Digitales",
+    "link": "http://www.fi.uba.ar/sites/default/files/8641.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "42",
+    "name": "Laboratorios de Sistemas Digitales",
+    "link": "/archivos/8642.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "43",
+    "name": "Sistemas Gráficos",
+    "link": "/archivos/8643.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "44",
+    "name": "Técnica Digital Avanzada",
+    "link": "http://www.fi.uba.ar/sites/default/files/8644.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "45",
+    "name": "Industrias y Productos de Electrónica",
+    "link": "http://www.fi.uba.ar/sites/default/files/8645.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "46",
+    "name": "Microelectrónica",
+    "link": "http://www.fi.uba.ar/sites/default/files/8646.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "47",
+    "name": "Optoelectrónica",
+    "link": "/archivos/8647.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "Seminario de Electrónica_Lutenberg",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "674 Seminario de Electrónica_Utard",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-674.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "714 Seminario de Electrónica_Galarza",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-714.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "715 Seminario de Electrónica_Sinnewald",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-715.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "716 Seminario de Electrónica_Cuervo Díaz",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-716.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "717 Seminario de Electrónica_Beunza",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-717.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "1030 Seminario de Electrónica_Bertolotti",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-1030.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "48",
+    "name": "1036 Seminario de Electrónica_Armentano Feijoo",
+    "link": "http://www.fi.uba.ar/sites/default/files/8648-1036.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "Seminario de Electrónica II_Lutenberg",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "719 Seminario de Electrónica II_ Beunza",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-719.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "720 Seminario de Electrónica II_Sinnewald",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-720.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "721 Seminario de Electrónica II_Cuervo Díaz",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-721.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "722 Seminario de Electrónica II_Galarza",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-722.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "723 Seminario de Electrónica II_Utard",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-723.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "1031 Seminario de Electrónica II_Bertolotti",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-1031.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "49",
+    "name": "1037 Seminario de Electrónica II_Armentano Feijoo",
+    "link": "http://www.fi.uba.ar/sites/default/files/8649-1037.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "50",
+    "name": "Tecnología de los Componentes",
+    "link": "http://www.fi.uba.ar/sites/default/files/8650.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "51",
+    "name": "Procesamiento de Señales I",
+    "link": "http://www.fi.uba.ar/sites/default/files/8651.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "52",
+    "name": "Procesamiento de Señales II",
+    "link": "/archivos/8652.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "53",
+    "name": "Procesamiento del Habla",
+    "link": "http://www.fi.uba.ar/sites/default/files/8653.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "54",
+    "name": "Redes Neuronales",
+    "link": "http://www.fi.uba.ar/sites/default/files/8654.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "55",
+    "name": "Teoría de Detección y Estimación",
+    "link": "http://www.fi.uba.ar/sites/default/files/8655.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "56",
+    "name": "Procesamiento de Imágenes",
+    "link": "/archivos/8656.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "57",
+    "name": "Acústica",
+    "link": "http://www.fi.uba.ar/sites/default/files/8657.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "58",
+    "name": "Electroacústica",
+    "link": "/archivos/8658.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "59",
+    "name": "Audio Profesional",
+    "link": "/archivos/8659.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "60",
+    "name": "Sistemas Biológicos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8660.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "61",
+    "name": "Ingeniería Biomédica",
+    "link": "/archivos/8661.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "62",
+    "name": "Equipamiento para Diagnóstico y Tratamiento Biomédico",
+    "link": "/archivos/8662.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "63",
+    "name": "Procesamiento y Análisis de Señales e Imágenes en Bioingeniería",
+    "link": "/archivos/8663.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "86",
+    "number": "99",
+    "name": "Trabajo Profesional de Ing. Electrónica",
+    "link": "/archivos/8699.pdf",
+    "depto": "Electrónica"
+  },
+  {
+    "code": "75",
+    "number": "00",
+    "name": "Tesis",
+    "link": "http://www.fi.uba.ar/sites/default/files/7500.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "01",
+    "name": "Computación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7501.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "02",
+    "name": "Algoritmos y Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7502.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "03",
+    "name": "Organización del Computador",
+    "link": "http://www.fi.uba.ar/sites/default/files/7503.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "04",
+    "name": "Algoritmos y Programación II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7504.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "05",
+    "name": "Informática II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7505.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "06",
+    "name": "Organización de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7506.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "07",
+    "name": "Algoritmos y Programación III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7507.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "08",
+    "name": "Sist. Operativos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7508.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "09",
+    "name": "Análisis de la Información",
+    "link": "http://www.fi.uba.ar/sites/default/files/7509.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "09",
+    "name": "1027 Análisis de la Información",
+    "link": "http://www.fi.uba.ar/sites/default/files/7509-1027.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "10",
+    "name": "Técnicas de Diseño",
+    "link": "http://www.fi.uba.ar/sites/default/files/7510.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "11",
+    "name": "Algoritmos y Programación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7511.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "12",
+    "name": "Análisis Numérico I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7512.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "13",
+    "name": "Análisis Numérico II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7513.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "14",
+    "name": "Lenguajes Formales",
+    "link": "http://www.fi.uba.ar/sites/default/files/7514.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "15",
+    "name": "Base de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7515.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "16",
+    "name": "Lenguajes de Programación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7516.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "17",
+    "name": "Implantación de Sistemas",
+    "link": "http://www.fi.uba.ar/sites/default/files/7517.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "18",
+    "name": "Proyectos Informáticos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7518.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "19",
+    "name": "Teoría de Comunicación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7519.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "20",
+    "name": "Arquitecturas y Configuración",
+    "link": "http://www.fi.uba.ar/sites/default/files/7520.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "21",
+    "name": "Redes y Teleprocesamientos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7521.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "22",
+    "name": "Concurrencia",
+    "link": "http://www.fi.uba.ar/sites/default/files/7522.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "23",
+    "name": "Inteligencia Artificial",
+    "link": "http://www.fi.uba.ar/sites/default/files/7523.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "24",
+    "name": "Teoría de la Programación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7524.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "25",
+    "name": "Computación Para Ingenieros",
+    "link": "http://www.fi.uba.ar/sites/default/files/7525.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "26",
+    "name": "Simulación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7526.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "27",
+    "name": "Algoritmos y Programación IV",
+    "link": "http://www.fi.uba.ar/sites/default/files/7527.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "28",
+    "name": "Base de Datos \"B\"",
+    "link": "http://www.fi.uba.ar/sites/default/files/7528.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "29",
+    "name": "Teoría de Algoritmos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7529.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "30",
+    "name": "Teoría de Algoritmos II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7530.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "31",
+    "name": "Teoría de Lenguaje",
+    "link": "http://www.fi.uba.ar/sites/default/files/7531.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "32",
+    "name": "Práctica Profesional",
+    "link": "http://www.fi.uba.ar/sites/default/files/7532.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "33",
+    "name": "Redes y Teleprocesamientos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7533.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "34",
+    "name": "Redes y Teleprocesamiento II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7534.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "35",
+    "name": "Lenguajes Especiales",
+    "link": "http://www.fi.uba.ar/sites/default/files/7535.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "36",
+    "name": "Seminario y Lógica de Bases de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7536.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "37",
+    "name": "Laboratorio de Programación de Base",
+    "link": "http://www.fi.uba.ar/sites/default/files/7537.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "38",
+    "name": "Análisis Numérico II A",
+    "link": "http://www.fi.uba.ar/sites/default/files/7538.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "39",
+    "name": "Aplicaciones Informáticas",
+    "link": "http://www.fi.uba.ar/sites/default/files/7539.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "40",
+    "name": "Algoritmos y Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7540.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "40",
+    "name": "544 Algoritmos y Programación I_ Wachenchauzer",
+    "link": "http://www.fi.uba.ar/sites/default/files/7540-544.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "41",
+    "name": "Algoritmos y Programación II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7541.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "41",
+    "name": "533 Algoritmos y Programación II_ Wachenchauzer",
+    "link": "http://www.fi.uba.ar/sites/default/files/7541-533.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "41",
+    "name": "1061 Algoritmos y Programación II_ Carolo",
+    "link": "http://www.fi.uba.ar/sites/default/files/7541-1061.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "42",
+    "name": "Taller de Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7542.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "43",
+    "name": "Introd. a los Sistemas Distribuidos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7543.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "44",
+    "name": "Admin. y Control de Proyectos Inform. I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7544.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "45",
+    "name": "Taller de Desarrollo de Proyectos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7545.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "46",
+    "name": "Administración y Control de Proyectos Informáticos II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7546.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "47",
+    "name": "Taller de Desarrollo de Proyectos II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7547.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "48",
+    "name": "Calidad en Desarrollo de Sistemas",
+    "link": "http://www.fi.uba.ar/sites/default/files/7548.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "50",
+    "name": "Introd. a los Sistemas Inteligentes",
+    "link": "http://www.fi.uba.ar/sites/default/files/7550.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "51",
+    "name": "Técnicas de Producción de Software I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7551.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "52",
+    "name": "Taller de Programación II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7552.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "53",
+    "name": "Técnicas de Producción de Software II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7553.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "54",
+    "name": "Técnicas de Producción de Software III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7554.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "55",
+    "name": "Taller de Desarrollo de Proyectos III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7555.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "56",
+    "name": "Organiz. Implant. y el Mantenimiento",
+    "link": "http://www.fi.uba.ar/sites/default/files/7556.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "57",
+    "name": "Modelos de Proceso de Desarrollo",
+    "link": "http://www.fi.uba.ar/sites/default/files/7557.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "58",
+    "name": "Evaluación de Proy. y Manejo de Riesgos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7558.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "59",
+    "name": "Técnicas de Programac. Concurrente I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7559.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "60",
+    "name": "Sistemas Distribuidos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7560.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "61",
+    "name": "Taller de Programación III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7561.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "62",
+    "name": "Técnicas de Programac. Concurrente II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7562.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "63",
+    "name": "Sistemas Distribuidos II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7563.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "64",
+    "name": "Sistemas Multimediales",
+    "link": "http://www.fi.uba.ar/sites/default/files/7564.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "65",
+    "name": "Manuf. Integrada p/ Comput. (CIM) I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7565.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "66",
+    "name": "Manuf. Integrada p/ Comput. (CIM) II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7566.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "67",
+    "name": "Sist. Aut. de Diag. y Detección Fallas I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7567.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "68",
+    "name": "Sist. de Soporte p/ Celdas Prod. Flexible",
+    "link": "http://www.fi.uba.ar/sites/default/files/7568.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "69",
+    "name": "Sist. Aut. de Diag. y Detección Fallas II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7569.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "70",
+    "name": "Sist. de Prog. no convencional de Robots",
+    "link": "http://www.fi.uba.ar/sites/default/files/7570.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "71",
+    "name": "460 Seminario_ Zelasco",
+    "link": "http://www.fi.uba.ar/sites/default/files/7571-460.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "71",
+    "name": "Seminario_ Cosso",
+    "link": "http://www.fi.uba.ar/sites/default/files/7571.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "72",
+    "name": "Seminario de Ing. en Informática II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7572.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "73",
+    "name": "Arquitectura de Software",
+    "link": "http://www.fi.uba.ar/sites/default/files/7573.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "74",
+    "name": "Sistemas Distribuidos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7574.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "75",
+    "name": "Computación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7575.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "76",
+    "name": "Computación II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7576.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "75",
+    "number": "99",
+    "name": "Trabajo Profesional",
+    "link": "http://www.fi.uba.ar/sites/default/files/7599.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "01",
+    "name": "Computación",
+    "link": "http://www.fi.uba.ar/sites/default/files/9501.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "02",
+    "name": "Algoritmos y Programación III",
+    "link": "http://www.fi.uba.ar/sites/default/files/9502.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "03",
+    "name": "Sistemas Operativos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9503.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "04",
+    "name": "Análisis Numérico I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9504.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "05",
+    "name": "Base de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9505.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "06",
+    "name": "Teoría de Algoritmos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9506.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "07",
+    "name": "Teoría del Lenguaje",
+    "link": "http://www.fi.uba.ar/sites/default/files/9507.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "08",
+    "name": "Taller de Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9508.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "09",
+    "name": "Técnicas de Programación Concurrente I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9509.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "10",
+    "name": "Modelación Numérica",
+    "link": "http://www.fi.uba.ar/sites/default/files/9510.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "11",
+    "name": "Algoritmos y Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9511.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "12",
+    "name": "Algoritmos y Programación II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9512.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "13",
+    "name": "Métodos Matemáticos y Numéricos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9513.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "14",
+    "name": "Algoritmos y Programación I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9514.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "14",
+    "name": "1064 Algoritmos y Programación I_ Wachenchauzer",
+    "link": "http://www.fi.uba.ar/sites/default/files/9514-1064.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "15",
+    "name": "Algoritmos y Programación II_Wachenchauzer",
+    "link": "http://www.fi.uba.ar/sites/default/files/9515.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "15",
+    "name": "1062 Algoritmos y Programación II_Calvo",
+    "link": "http://www.fi.uba.ar/sites/default/files/9515-1062.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "15",
+    "name": "1063 Algoritmos y Programación II_Carolo",
+    "link": "http://www.fi.uba.ar/sites/default/files/9515-1063.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "19",
+    "name": "Simulación",
+    "link": "http://www.fi.uba.ar/sites/default/files/9519.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "20",
+    "name": "Métodos y Modelos en la Ingeniería del Software I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9520.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "21",
+    "name": "Métodos y Modelos en la Ingeniería del Software II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9521.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "24",
+    "name": "Administración y Control de Proyectos Informáticos I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9524.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "25",
+    "name": "Inteligencia Artificial",
+    "link": "http://www.fi.uba.ar/sites/default/files/9525.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "30",
+    "name": "Estándares de Calidad y Modelos de Referencia",
+    "link": "http://www.fi.uba.ar/sites/default/files/9530.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "49",
+    "name": "Lenguajes de Programación",
+    "link": "http://www.fi.uba.ar/sites/default/files/9549.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "57",
+    "name": "Organización del Computador",
+    "link": "http://www.fi.uba.ar/sites/default/files/9557.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "58",
+    "name": "Organización del Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9558.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "59",
+    "name": "Diseño, Operación y Gestión de Servicios Informáticos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9559.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "60",
+    "name": "Redes y Aplicaciones Distribuidas",
+    "link": "http://www.fi.uba.ar/sites/default/files/9560.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "61",
+    "name": "Trabajo Profesional de Licenciatura en Análisis de Sistemas",
+    "link": "http://www.fi.uba.ar/sites/default/files/9561.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "67",
+    "name": "Minería de Datos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9567.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "95",
+    "number": "68",
+    "name": "Desarrollo con Nuevas Tecnologías",
+    "link": "http://www.fi.uba.ar/sites/default/files/9568.pdf",
+    "depto": "Computación"
+  },
+  {
+    "code": "70",
+    "number": "00",
+    "name": "Tesis",
+    "link": "http://www.fi.uba.ar/sites/default/files/7000.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "01",
+    "name": "Geometría Proyectiva",
+    "link": "http://www.fi.uba.ar/sites/default/files/7001.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "02",
+    "name": "Geometría Descriptiva",
+    "link": "http://www.fi.uba.ar/sites/default/files/7002.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "03",
+    "name": "Medios de Representación A",
+    "link": "http://www.fi.uba.ar/sites/default/files/7003.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "04",
+    "name": "Dibujo Topográfico",
+    "link": "http://www.fi.uba.ar/sites/default/files/7004.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "05",
+    "name": "Topografía I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7005.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "06",
+    "name": "Geografía Física y Geología",
+    "link": "http://www.fi.uba.ar/sites/default/files/7006.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "07",
+    "name": "Cálculo de Compensación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7007.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "08",
+    "name": "Topografía I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7008.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "09",
+    "name": "Topografía II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7009.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "10",
+    "name": "Mediciones con instrumental electrónico",
+    "link": "http://www.fi.uba.ar/sites/default/files/7010.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "11",
+    "name": "Topografía III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7011.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "12",
+    "name": "Geodesia I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7012.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "13",
+    "name": "Geodesia II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7013.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "14",
+    "name": "Fotogrametría I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7014.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "15",
+    "name": "Cartografía",
+    "link": "http://www.fi.uba.ar/sites/default/files/7015.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "16",
+    "name": "Fotogrametría II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7016.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "17",
+    "name": "Geodesia III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7017.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "18",
+    "name": "Catastro y Valuaciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/7018.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "19",
+    "name": "Levantamiento y Práctica Prof.",
+    "link": "http://www.fi.uba.ar/sites/default/files/7019.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "20",
+    "name": "Fotointerpretación",
+    "link": "http://www.fi.uba.ar/sites/default/files/7020.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "21",
+    "name": "Información rural y colonización",
+    "link": "http://www.fi.uba.ar/sites/default/files/7021.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "22",
+    "name": "Ordenamiento rural y urbano",
+    "link": "http://www.fi.uba.ar/sites/default/files/7022.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "23",
+    "name": "Microgeodesia",
+    "link": "http://www.fi.uba.ar/sites/default/files/7023.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "24",
+    "name": "Levantamientos Hidrográficos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7024.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "25",
+    "name": "Levantamientos Subterráneos",
+    "link": "http://www.fi.uba.ar/sites/default/files/7025.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "26",
+    "name": "Hidráulica Agrícola y Saneamiento",
+    "link": "http://www.fi.uba.ar/sites/default/files/7026.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "27",
+    "name": "Catastro",
+    "link": "http://www.fi.uba.ar/sites/default/files/7027.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "28",
+    "name": "Tasaciones y Valuaciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/7028.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "29",
+    "name": "Topografía y Geodesia",
+    "link": "http://www.fi.uba.ar/sites/default/files/7029.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "30",
+    "name": "Introd. a los Sist. de Inform. Geográfica",
+    "link": "http://www.fi.uba.ar/sites/default/files/7030.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "31",
+    "name": "Información Rural",
+    "link": "http://www.fi.uba.ar/sites/default/files/7031.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "32",
+    "name": "Sistemas de Información Geográfica",
+    "link": "http://www.fi.uba.ar/sites/default/files/7032.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "33",
+    "name": "Elementos de Construcción",
+    "link": "http://www.fi.uba.ar/sites/default/files/7033.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "34",
+    "name": "Topografía III",
+    "link": "http://www.fi.uba.ar/sites/default/files/7034.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "35",
+    "name": "Topografía IV",
+    "link": "http://www.fi.uba.ar/sites/default/files/7035.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "36",
+    "name": "Sistemas Cartográficos y Teledetección",
+    "link": "http://www.fi.uba.ar/sites/default/files/7036.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "37",
+    "name": "Levantamiento y Práctica Profesional I",
+    "link": "http://www.fi.uba.ar/sites/default/files/7037.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "38",
+    "name": "Levantamiento y Práctica Profesional II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7038.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "39",
+    "name": "Valuaciones",
+    "link": "http://www.fi.uba.ar/sites/default/files/7039.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "40",
+    "name": "Geología Aplicada",
+    "link": "http://www.fi.uba.ar/sites/default/files/7040.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "41",
+    "name": "Oceanografía Física",
+    "link": "http://www.fi.uba.ar/sites/default/files/7041.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "42",
+    "name": "Sistemas de Información Geográfica II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7042.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "43",
+    "name": "Topografía De Obra",
+    "link": "http://www.fi.uba.ar/sites/default/files/7043.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "44",
+    "name": "Dibujo Topográfico II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7044.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "70",
+    "number": "99",
+    "name": "Trabajo Profesional de la Ingeniería en Agrimensura",
+    "link": "http://www.fi.uba.ar/sites/default/files/7099.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "90",
+    "number": "01",
+    "name": "Topografía y Geodesia",
+    "link": "http://www.fi.uba.ar/sites/default/files/9001.pdf",
+    "depto": "Agrimensura"
+  },
+  {
+    "code": "68",
+    "number": "00",
+    "name": "Tesis de Ingeniería Civil (Transporte)",
+    "link": "/archivos/6800.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "01",
+    "name": "Construcción de Carreteras",
+    "link": "http://www.fi.uba.ar/archivos/6801.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "02",
+    "name": "Diseño y Oper. de Caminos",
+    "link": "http://www.fi.uba.ar/archivos/6802.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "03",
+    "name": "Puertos y Vías Navegables",
+    "link": "http://www.fi.uba.ar/archivos/6803.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "04",
+    "name": "Ferrocarriles",
+    "link": "http://www.fi.uba.ar/archivos/6804.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "05",
+    "name": "Aeropuertos",
+    "link": "http://www.fi.uba.ar/archivos/6805.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "06",
+    "name": "Transporte A",
+    "link": "http://www.fi.uba.ar/archivos/6806.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "07",
+    "name": "Ingeniería del Transporte",
+    "link": "http://www.fi.uba.ar/archivos/6807.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "08",
+    "name": "Planeamiento del Transporte",
+    "link": "http://www.fi.uba.ar/archivos/6808.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "09",
+    "name": "Tránsito",
+    "link": "http://www.fi.uba.ar/archivos/6809.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "10",
+    "name": "Ingeniería Territorial",
+    "link": "http://www.fi.uba.ar/archivos/6810.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "11",
+    "name": "Ordenamiento Rural y Urbano",
+    "link": "http://www.fi.uba.ar/archivos/6811.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "68",
+    "number": "99",
+    "name": "Trabajo Prof. de Ing. Civil",
+    "link": "http://www.fi.uba.ar/archivos/6899.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "01",
+    "name": "Construcción de Carreteras",
+    "link": "/archivos/8801.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "02",
+    "name": "Diseño y Operación de Caminos",
+    "link": "/archivos/8802.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "03",
+    "name": "Puertos y Vías Navegables B",
+    "link": "/archivos/8803.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "04",
+    "name": "Ferrocarriles B",
+    "link": "/archivos/8804.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "05",
+    "name": "Aeropuertos B",
+    "link": "/archivos/8805.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "06",
+    "name": "Planeamiento del Transporte",
+    "link": "/archivos/8806.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "07",
+    "name": "Tránsito",
+    "link": "http://www.fi.uba.ar/sites/default/files/8807.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "08",
+    "name": "Ingeniería Territorial",
+    "link": "/archivos/8808.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "09",
+    "name": "Análisis de Sistemas de Transporte",
+    "link": "http://www.fi.uba.ar/archivos/8809.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "10",
+    "name": "Caminos",
+    "link": "/archivos/8810.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "11",
+    "name": "Aeropuertos A",
+    "link": "/archivos/8811.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "12",
+    "name": "Ferrocarriles A",
+    "link": "/archivos/8812.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "13",
+    "name": "Puertos y Vías Navegables A",
+    "link": "/archivos/8813.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "88",
+    "number": "14",
+    "name": "Evaluación de Proyectos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8814.pdf",
+    "depto": "Transporte"
+  },
+  {
+    "code": "72",
+    "number": "00",
+    "name": "Tesis de Ingeniería Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7200.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "01",
+    "name": "Materiales Industriales I",
+    "link": "http://www.fi.uba.ar/archivos/7201.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "02",
+    "name": "Industrias I",
+    "link": "http://www.fi.uba.ar/archivos/7202.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "03",
+    "name": "Industrias II A",
+    "link": "/archivos/7203.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "04",
+    "name": "Indust. de procesos de Conformación",
+    "link": "http://www.fi.uba.ar/archivos/7204.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "05",
+    "name": "Arquitectura Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7205.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "06",
+    "name": "Automatización Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7206.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "07",
+    "name": "Industrias III",
+    "link": "http://www.fi.uba.ar/archivos/7207.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "08",
+    "name": "Industrias Metalúrgicas",
+    "link": "/archivos/7208.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "09",
+    "name": "Industrias Plásticas",
+    "link": "http://www.fi.uba.ar/archivos/7209.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "10",
+    "name": "Industrias de Celulosa y Papel",
+    "link": "http://www.fi.uba.ar/archivos/7210.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "11",
+    "name": "Industrias Petroquímicas",
+    "link": "http://www.fi.uba.ar/archivos/7211.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "12",
+    "name": "Industrias Textiles",
+    "link": "http://www.fi.uba.ar/archivos/7212.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "13",
+    "name": "Materiales Industriales II",
+    "link": "http://www.fi.uba.ar/sites/default/files/7213_0.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "14",
+    "name": "Diseño de Producto",
+    "link": "http://www.fi.uba.ar/archivos/7214.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "15",
+    "name": "Industrias de la Alimentación",
+    "link": "http://www.fi.uba.ar/archivos/7215.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "16",
+    "name": "Industrias II B",
+    "link": "/archivos/7216.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "17",
+    "name": "Industrias Petrolíferas",
+    "link": "http://www.fi.uba.ar/archivos/7217.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "18",
+    "name": "Industrias II",
+    "link": "http://www.fi.uba.ar/archivos/7218.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "72",
+    "number": "99",
+    "name": "Trabajo Profesional de Ing. Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7299.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "00",
+    "name": "Tesis de Ingeniería Industrial",
+    "link": "/archivos/9200.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "01",
+    "name": "Materiales Industriales I",
+    "link": "/archivos/9201.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "02",
+    "name": "Industrias I",
+    "link": "/archivos/9202.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "03",
+    "name": "Introducción a la Ingeniería Industrial",
+    "link": "http://www.fi.uba.ar/archivos/9203.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "04",
+    "name": "Procesos de Manufactura I",
+    "link": "/archivos/9204.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "05",
+    "name": "Edificios Industriales",
+    "link": "/archivos/9205.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "06",
+    "name": "Automatización Industrial y Robótica",
+    "link": "/archivos/9206.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "07",
+    "name": "Instalaciones Industriales",
+    "link": "/archivos/9207.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "08",
+    "name": "Diseño de Productos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9208.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "09",
+    "name": "Industrias Plásticas",
+    "link": "/archivos/9209.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "10",
+    "name": "Industrias de Celulosa y Papel",
+    "link": "/archivos/9210.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "11",
+    "name": "Industrias Petroquímicas",
+    "link": "/archivos/9211.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "12",
+    "name": "Industrias Textiles",
+    "link": "/archivos/9212.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "12",
+    "name": "1018 Diseño de Productos",
+    "link": "/archivos/9212-1018.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "13",
+    "name": "Materiales Industriales II",
+    "link": "/archivos/9213.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "14",
+    "name": "Seminario de Ingeniería Industrial I",
+    "link": "/archivos/9214.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "15",
+    "name": "Industrias de la Alimentación",
+    "link": "/archivos/9215.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "16",
+    "name": "Seminario de Ingeniería Industrial II",
+    "link": "/archivos/9216.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "17",
+    "name": "Industrias Petrolíferas",
+    "link": "/archivos/9217.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "18",
+    "name": "Industrias II",
+    "link": "http://www.fi.uba.ar/archivos/9218-862.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "19",
+    "name": "Procesos de Manufactura II",
+    "link": "/archivos/9219.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "20",
+    "name": "Industria Automotríz",
+    "link": "/archivos/9220.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "21",
+    "name": "Seminario de Ingeniería III",
+    "link": "/archivos/9221.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "92",
+    "number": "99",
+    "name": "Trabajo Profesional de Ingeniería Industrial",
+    "link": "/archivos/9222.pdf",
+    "depto": "Tecnología Industrial"
+  },
+  {
+    "code": "61",
+    "number": "03",
+    "name": "Análisis Matemático II A",
+    "link": "http://www.fi.uba.ar/archivos/6103.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "04",
+    "name": "Análisis Matemático II B",
+    "link": "/archivos/6104.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "06",
+    "name": "Probabilidad y Estadística A",
+    "link": "http://www.fi.uba.ar/archivos/6106.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "07",
+    "name": "Matemática Discreta",
+    "link": "http://www.fi.uba.ar/archivos/6107.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "08",
+    "name": "Álgebra II A",
+    "link": "http://www.fi.uba.ar/archivos/6108.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "09",
+    "name": "Probabilidad y Estadística B",
+    "link": "http://www.fi.uba.ar/archivos/6109.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "10",
+    "name": "Análisis Matemático III A",
+    "link": "http://www.fi.uba.ar/archivos/6110.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "11",
+    "name": "Algebra II B",
+    "link": "http://www.fi.uba.ar/archivos/6111.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "12",
+    "name": "Análisis Matemático III B",
+    "link": "http://www.fi.uba.ar/archivos/6112.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "13",
+    "name": "Análisis Matemático III C",
+    "link": "http://www.fi.uba.ar/archivos/6113.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "14",
+    "name": "Matemática Especial para Ing. Química",
+    "link": "http://www.fi.uba.ar/archivos/6114.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "15",
+    "name": "Matemática Aplicada a la Agrimensura",
+    "link": "http://www.fi.uba.ar/archivos/6115.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "16",
+    "name": "Matemática para Ingenieros",
+    "link": "http://www.fi.uba.ar/archivos/6116.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "17",
+    "name": "Teoría de Grafos",
+    "link": "http://www.fi.uba.ar/archivos/6117.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "18",
+    "name": "Ecuaciones diferenciales ordinarias",
+    "link": "http://www.fi.uba.ar/archivos/6118.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "19",
+    "name": "Análisis Funcional",
+    "link": "http://www.fi.uba.ar/archivos/6119.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "22",
+    "name": "Álgebra II C",
+    "link": "http://www.fi.uba.ar/archivos/6122.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "23",
+    "name": "Álgebra",
+    "link": "/archivos/6123.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "25",
+    "name": "Análisis I",
+    "link": "/archivos/6125.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "61",
+    "number": "26",
+    "name": "Análisis II",
+    "link": "/archivos/6126.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "01",
+    "name": "Análisis Matemático II",
+    "link": "http://www.fi.uba.ar/archivos/8101.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "02",
+    "name": "Algebra II",
+    "link": "http://www.fi.uba.ar/archivos/8102.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "03",
+    "name": "Probabilidad y Estadística A",
+    "link": "http://www.fi.uba.ar/archivos/8103.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "04",
+    "name": "Probabilidad y Estadística B",
+    "link": "http://www.fi.uba.ar/archivos/8104.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "05",
+    "name": "Análisis Matemático III A",
+    "link": "http://www.fi.uba.ar/archivos/8105.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "06",
+    "name": "Análisis Matemático III B",
+    "link": "/archivos/8106.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "07",
+    "name": "Análisis Funcional",
+    "link": "/archivos/8107.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "08",
+    "name": "Análisis Matricial y Métodos Numéricos",
+    "link": "/archivos/8108.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "09",
+    "name": "Probabilidad",
+    "link": "http://www.fi.uba.ar/sites/default/files/8109.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "81",
+    "number": "11",
+    "name": "Matemática Discreta",
+    "link": "/archivos/8111.pdf",
+    "depto": "Matemática"
+  },
+  {
+    "code": "77",
+    "number": "01",
+    "name": "Higiene y Seguridad del Trabajo",
+    "link": "http://www.fi.uba.ar/archivos/7701.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "77",
+    "number": "02",
+    "name": "Introducción a la Ing. Ambiental",
+    "link": "http://www.fi.uba.ar/archivos/7702.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "77",
+    "number": "05",
+    "name": "Proyectos Nacionales e Ing. Ambiental",
+    "link": "http://www.fi.uba.ar/archivos/7705.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "77",
+    "number": "08",
+    "name": "Seguridad Ambiental y del Trabajo B",
+    "link": "http://www.fi.uba.ar/archivos/7708.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "77",
+    "number": "09",
+    "name": "Seguridad Amb. y del Trabajo A",
+    "link": "http://www.fi.uba.ar/archivos/7709.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "77",
+    "number": "41",
+    "name": "Gestión Ambiental en la Ind. Alim.",
+    "link": "http://www.fi.uba.ar/archivos/7741.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "97",
+    "number": "01",
+    "name": "Higiene y Seguridad Industrial",
+    "link": "/archivos/9701.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "97",
+    "number": "02",
+    "name": "Seguridad Ambiental y del Trabajo B",
+    "link": "http://www.fi.uba.ar/archivos/9702.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "97",
+    "number": "03",
+    "name": "Higiene y Seguridad en Obras Civiles",
+    "link": "/archivos/9703.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "97",
+    "number": "04",
+    "name": "Seguridad Ambiental y del Trabajo",
+    "link": "/archivos/9704.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "97",
+    "number": "05",
+    "name": "Gestión Ambiental",
+    "link": "/archivos/9705.pdf",
+    "depto": "Seguridad del Trabajo y Ambiente"
+  },
+  {
+    "code": "73",
+    "number": "00",
+    "name": "Tesis de Ingeniería Naval",
+    "link": "/archivos/7300.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "01",
+    "name": "Arquitectura Naval I",
+    "link": "http://www.fi.uba.ar/archivos/7301.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "02",
+    "name": "Construcción Naval I",
+    "link": "http://www.fi.uba.ar/archivos/7302.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "03",
+    "name": "Arquitectura Naval II",
+    "link": "http://www.fi.uba.ar/archivos/7303.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "04",
+    "name": "Estructura de Buques",
+    "link": "http://www.fi.uba.ar/archivos/7304.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "05",
+    "name": "Introducción a Máquinas Marinas",
+    "link": "http://www.fi.uba.ar/archivos/7305.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "06",
+    "name": "Vibraciones de Estructuras",
+    "link": "http://www.fi.uba.ar/archivos/7306.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "07",
+    "name": "Construcción Naval II",
+    "link": "http://www.fi.uba.ar/archivos/7307.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "08",
+    "name": "Estructura de Buques II",
+    "link": "/archivos/7308.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "09",
+    "name": "Proyecto de Buques I",
+    "link": "http://www.fi.uba.ar/archivos/7309.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "10",
+    "name": "Proyecto de Buques II",
+    "link": "http://www.fi.uba.ar/archivos/7310.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "11",
+    "name": "Máquinas Marinas I",
+    "link": "http://www.fi.uba.ar/archivos/7311.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "12",
+    "name": "Máquinas Marinas II",
+    "link": "http://www.fi.uba.ar/archivos/7312.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "13",
+    "name": "Construcción Naval III",
+    "link": "/archivos/7313.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "14",
+    "name": "Navegación",
+    "link": "http://www.fi.uba.ar/archivos/7314.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "15",
+    "name": "Máquinas Marinas III",
+    "link": "http://www.fi.uba.ar/archivos/7315.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "16",
+    "name": "Construcción Naval III",
+    "link": "http://www.fi.uba.ar/archivos/7316.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "40",
+    "name": "Prácticas en Astilleros I",
+    "link": "http://www.fi.uba.ar/archivos/7340.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "41",
+    "name": "Prácticas en Astilleros II",
+    "link": "http://www.fi.uba.ar/archivos/7341.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "51",
+    "name": "Álgebra",
+    "link": "http://www.fi.uba.ar/archivos/7351.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "52",
+    "name": "Métodos Estadísticos",
+    "link": "http://www.fi.uba.ar/archivos/7352.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "53",
+    "name": "Análisis I",
+    "link": "http://www.fi.uba.ar/archivos/7353.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "54",
+    "name": "Análisis I",
+    "link": "http://www.fi.uba.ar/archivos/7354.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "55",
+    "name": "Química General I",
+    "link": "http://www.fi.uba.ar/archivos/7355.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "56",
+    "name": "Química Aplicada",
+    "link": "http://www.fi.uba.ar/archivos/7356.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "57",
+    "name": "Materiales",
+    "link": "http://www.fi.uba.ar/archivos/7357.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "58",
+    "name": "Dibujo",
+    "link": "http://www.fi.uba.ar/archivos/7358.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "59",
+    "name": "Estabilidad I (Estática)",
+    "link": "http://www.fi.uba.ar/archivos/7359.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "60",
+    "name": "Estabilidad II (Resistencia de Materiales)",
+    "link": "http://www.fi.uba.ar/archivos/7360.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "61",
+    "name": "Organización de la Producción Naval",
+    "link": "http://www.fi.uba.ar/archivos/7361.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "62",
+    "name": "Física I (Mecánica)",
+    "link": "http://www.fi.uba.ar/archivos/7362.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "63",
+    "name": "Física II (Calor)",
+    "link": "http://www.fi.uba.ar/archivos/7363.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "64",
+    "name": "Física III (Electricidad)",
+    "link": "http://www.fi.uba.ar/archivos/7364.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "65",
+    "name": "Física IV (Hidráulica)",
+    "link": "http://www.fi.uba.ar/archivos/7365.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "66",
+    "name": "Construcción Naval Mercante I",
+    "link": "http://www.fi.uba.ar/archivos/7366.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "67",
+    "name": "Construcción Naval Mercante II",
+    "link": "http://www.fi.uba.ar/archivos/7367.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "68",
+    "name": "Normas y Reglamentos",
+    "link": "http://www.fi.uba.ar/archivos/7368.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "69",
+    "name": "Arquitectura Naval",
+    "link": "http://www.fi.uba.ar/archivos/7369.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "70",
+    "name": "Computación",
+    "link": "http://www.fi.uba.ar/archivos/7370.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "71",
+    "name": "Relaciones Humanas",
+    "link": "http://www.fi.uba.ar/archivos/7371.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "72",
+    "name": "Inglés I",
+    "link": "http://www.fi.uba.ar/archivos/7372.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "73",
+    "name": "Inglés II",
+    "link": "http://www.fi.uba.ar/archivos/7373.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "74",
+    "name": "Inglés III",
+    "link": "http://www.fi.uba.ar/archivos/7374.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "75",
+    "name": "Inglés IV",
+    "link": "http://www.fi.uba.ar/archivos/7375.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "76",
+    "name": "Alemán I",
+    "link": "http://www.fi.uba.ar/archivos/7376.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "77",
+    "name": "Alemán II",
+    "link": "http://www.fi.uba.ar/archivos/7377.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "78",
+    "name": "Soldadura",
+    "link": "http://www.fi.uba.ar/archivos/7378.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "79",
+    "name": "Mecanizado",
+    "link": "http://www.fi.uba.ar/archivos/7379.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "80",
+    "name": "Calderería",
+    "link": "http://www.fi.uba.ar/archivos/7380.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "81",
+    "name": "Electricidad",
+    "link": "http://www.fi.uba.ar/archivos/7381.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "82",
+    "name": "Aislamiento",
+    "link": "http://www.fi.uba.ar/archivos/7382.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "83",
+    "name": "Motores principales y propulsión",
+    "link": "http://www.fi.uba.ar/archivos/7383.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "84",
+    "name": "Pintura",
+    "link": "http://www.fi.uba.ar/archivos/7384.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "85",
+    "name": "Montaje Mecánico",
+    "link": "http://www.fi.uba.ar/archivos/7385.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "86",
+    "name": "Gestión de garantía de Calidad",
+    "link": "http://www.fi.uba.ar/archivos/7386.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "87",
+    "name": "Gestión de Producción",
+    "link": "http://www.fi.uba.ar/archivos/7387.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "88",
+    "name": "Arquitectura Naval II",
+    "link": "/archivos/7388.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "89",
+    "name": "Máquinas e Instalaciones Auxiliares Navales",
+    "link": "/archivos/7389.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "90",
+    "name": "Máquinas e Instalaciones Eléctricas Navales",
+    "link": "/archivos/7390.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "91",
+    "name": "Máquinas e Instalaciones Propulsoras Navales",
+    "link": "/archivos/7391.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "92",
+    "name": "Taller V: Casco y Alistamiento: Reparación",
+    "link": "/archivos/7392.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "93",
+    "name": "Taller VI: Casco y Alistamiento: Construcción",
+    "link": "/archivos/7393.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "94",
+    "name": "Taller VII: Propulsión",
+    "link": "/archivos/7394.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "95",
+    "name": "Proyecto Integrador",
+    "link": "/archivos/7395.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "96",
+    "name": "Dibujo Naval",
+    "link": "/archivos/7396.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "97",
+    "name": "Arquitectura Naval I",
+    "link": "/archivos/7397.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "98",
+    "name": "Taller I: Electricidad",
+    "link": "/archivos/7398.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "73",
+    "number": "99",
+    "name": "Trabajo Profes. de Ing. Naval y Mec.",
+    "link": "http://www.fi.uba.ar/archivos/7399.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "93",
+    "number": "01",
+    "name": "Taller II: Pintura",
+    "link": "/archivos/9301.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "93",
+    "number": "02",
+    "name": "Taller III: Soldadura",
+    "link": "/archivos/9302.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "93",
+    "number": "03",
+    "name": "Taller IV: Gestión de Garantía de Calidad",
+    "link": "/archivos/9303.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "93",
+    "number": "04",
+    "name": "Taller VIII: Gestión de Producción",
+    "link": "/archivos/9304.pdf",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "",
+    "number": "",
+    "name": "Mecánica de Laminados Compuestos",
+    "link": "http://www.fi.uba.ar/materias/mlc/",
+    "depto": "Ingeniería Naval"
+  },
+  {
+    "code": "76",
+    "number": "00",
+    "name": "Tesis de Ingeniería Química",
+    "link": "/archivos/7600.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "01",
+    "name": "Introducción a la Ingeniería Química I",
+    "link": "/archivos/7601.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "02",
+    "name": "Introducción a la Ingeniería Química II",
+    "link": "/archivos/7602.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "03",
+    "name": "Operaciones I",
+    "link": "http://www.fi.uba.ar/archivos/7603.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "04",
+    "name": "Operaciones Unitarias II",
+    "link": "http://www.fi.uba.ar/archivos/7604.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "05",
+    "name": "Operaciones Unitarias III",
+    "link": "http://www.fi.uba.ar/archivos/7605.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "06",
+    "name": "Ingeniería de las Instalaciones I",
+    "link": "/archivos/7606.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "07",
+    "name": "Ingeniería de las Instalaciones II",
+    "link": "/archivos/7607.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "08",
+    "name": "Ingeniería de la Reacciones Químicas",
+    "link": "http://www.fi.uba.ar/archivos/7608.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "09",
+    "name": "Instrumen. y Control de Plantas Químicas",
+    "link": "/archivos/7609.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "10",
+    "name": "Integración Industrial",
+    "link": "/archivos/7610.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "11",
+    "name": "Análisis de Sistemas y Optimización",
+    "link": "/archivos/7611.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "12",
+    "name": "Microbiología Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7612.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "13",
+    "name": "Bioingeniería Industrial",
+    "link": "/archivos/7613.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "15",
+    "name": "Industria de Polímeros",
+    "link": "/archivos/7615.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "16",
+    "name": "Electroquímica",
+    "link": "http://www.fi.uba.ar/archivos/7616.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "17",
+    "name": "Procesos Electroquímicos",
+    "link": "http://www.fi.uba.ar/archivos/7617.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "18",
+    "name": "Fisicoquímica Especial",
+    "link": "http://www.fi.uba.ar/archivos/7618.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "19",
+    "name": "Procesos Fermentativos",
+    "link": "/archivos/7619.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "20",
+    "name": "Ingeniería de las Reacciones Químicas II",
+    "link": "/archivos/7620.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "21",
+    "name": "Simulación de Plantas Químicas",
+    "link": "/archivos/7621.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "22",
+    "name": "Fundamentos de la Ing. de Reservorios",
+    "link": "http://www.fi.uba.ar/archivos/7622.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "23",
+    "name": "Recuperación Asistida de Petróleo",
+    "link": "http://www.fi.uba.ar/archivos/7623.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "24",
+    "name": "Fund. de la Sim. Numérica de Reservorio",
+    "link": "http://www.fi.uba.ar/archivos/7624.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "25",
+    "name": "Explotación de Yacimientos",
+    "link": "http://www.fi.uba.ar/archivos/7625.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "26",
+    "name": "Evaluación de Proyectos",
+    "link": "/archivos/7626.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "27",
+    "name": "Control Estadístico de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7627.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "28",
+    "name": "Gestión Recursos en la Ind. de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7628.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "29",
+    "name": "Industria de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7629.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "30",
+    "name": "Industrias Alimenticias",
+    "link": "http://www.fi.uba.ar/archivos/7630.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "31",
+    "name": "Simulación de Plantas Químicas B",
+    "link": "/archivos/7631.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "32",
+    "name": "Preservación de Alimentos",
+    "link": "http://www.fi.uba.ar/archivos/7632.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "33",
+    "name": "Procesamiento Industrial de Alimentos",
+    "link": "http://www.fi.uba.ar/archivos/7633.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "40",
+    "name": "Introducción a la Bioquímica",
+    "link": "http://www.fi.uba.ar/archivos/7640.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "41",
+    "name": "Biotecnología",
+    "link": "http://www.fi.uba.ar/archivos/7641.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "42",
+    "name": "Ingeniería de las Instalaciones II B",
+    "link": "http://www.fi.uba.ar/archivos/7642.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "43",
+    "name": "Instrumentación y Control",
+    "link": "http://www.fi.uba.ar/archivos/7643.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "44",
+    "name": "Práctica Profesional",
+    "link": "http://www.fi.uba.ar/archivos/7644.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "45",
+    "name": "Termodinámica de los Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7645.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "46",
+    "name": "Introducción a la Ingeniería Química",
+    "link": "http://www.fi.uba.ar/archivos/7646.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "47",
+    "name": "Fenómenos de Transporte",
+    "link": "http://www.fi.uba.ar/archivos/7647.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "48",
+    "name": "Evaluación de Propiedades Físicas",
+    "link": "http://www.fi.uba.ar/archivos/7648.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "49",
+    "name": "Operaciones Unitarias de Transferencia de Cantidad de Mov.",
+    "link": "http://www.fi.uba.ar/archivos/7649.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "50",
+    "name": "Diseño de Procesos",
+    "link": "/archivos/7650.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "51",
+    "name": "Introducción a la Planificación Interactiva",
+    "link": "http://www.fi.uba.ar/archivos/7651.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "52",
+    "name": "Operaciones Unitarias de Transferencia de Materia",
+    "link": "http://www.fi.uba.ar/archivos/7652.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "53",
+    "name": "Diseño de Reactores",
+    "link": "http://www.fi.uba.ar/archivos/7653.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "54",
+    "name": "Instalaciones de Plantas de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7654.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "55",
+    "name": "Microbiología Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7655.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "56",
+    "name": "Instrumentación y Control de Plantas Químicas",
+    "link": "http://www.fi.uba.ar/archivos/7656.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "57",
+    "name": "Diseño de Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7657.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "58",
+    "name": "Emisiones de contaminantes químicos y biológicos",
+    "link": "http://www.fi.uba.ar/archivos/7658.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "59",
+    "name": "Trabajo Profesional I",
+    "link": "http://www.fi.uba.ar/archivos/7659.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "60",
+    "name": "Laboratorio de Operaciones y Procesos",
+    "link": "http://www.fi.uba.ar/archivos/7660.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "61",
+    "name": "Bioingeniería",
+    "link": "http://www.fi.uba.ar/archivos/7661.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "62",
+    "name": "Trabajo Profesional II",
+    "link": "http://www.fi.uba.ar/archivos/7662.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "63",
+    "name": "Diseño avanzado de reactores",
+    "link": "http://www.fi.uba.ar/archivos/7663.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "90",
+    "name": "Tesis de Grado de Ing. de Alimentos",
+    "link": "/archivos/7690.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "76",
+    "number": "99",
+    "name": "Trabajo Profesional de Ingeniería Química",
+    "link": "/archivos/7699.pdf",
+    "depto": "Ingeniería Química"
+  },
+  {
+    "code": "67",
+    "number": "00",
+    "name": "Tesis de Ingeniería Mecánica",
+    "link": "/archivos/6700.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "01",
+    "name": "Medios de Representación A",
+    "link": "/archivos/6701.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "02",
+    "name": "Medios de Representación B",
+    "link": "http://www.fi.uba.ar/archivos/6702.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "03",
+    "name": "Medios de Representación C",
+    "link": "http://www.fi.uba.ar/archivos/6703.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "04",
+    "name": "Termodinámica I A",
+    "link": "http://www.fi.uba.ar/archivos/6704.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "05",
+    "name": "Termodinámica",
+    "link": "/archivos/6705.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "06",
+    "name": "Termodinámica y Máquinas Térmicas",
+    "link": "/archivos/6706.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "07",
+    "name": "Dibujo Mecánico",
+    "link": "http://www.fi.uba.ar/archivos/6707.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "08",
+    "name": "Tecnología Mecánica I",
+    "link": "/archivos/6708.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "09",
+    "name": "Tecnología Mecánica II",
+    "link": "/archivos/6709.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "10",
+    "name": "Calor y Termodinámica",
+    "link": "http://www.fi.uba.ar/archivos/6710.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "11",
+    "name": "Mecanismos A",
+    "link": "http://www.fi.uba.ar/archivos/6711.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "12",
+    "name": "Mecanismos B",
+    "link": "http://www.fi.uba.ar/archivos/6712.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "13",
+    "name": "Conocimiento de Materiales I",
+    "link": "http://www.fi.uba.ar/archivos/6713.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "14",
+    "name": "Conocimiento de Materiales II",
+    "link": "http://www.fi.uba.ar/archivos/6714.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "15",
+    "name": "Tecnología Mecánica I",
+    "link": "http://www.fi.uba.ar/archivos/6715.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "16",
+    "name": "Ensayos Industriales",
+    "link": "http://www.fi.uba.ar/archivos/6716.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "17",
+    "name": "Taller",
+    "link": "http://www.fi.uba.ar/archivos/6717.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "18",
+    "name": "Mecánica de Fluidos B",
+    "link": "http://www.fi.uba.ar/archivos/6718.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "19",
+    "name": "Máquinas Alternativas",
+    "link": "http://www.fi.uba.ar/archivos/6719.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "20",
+    "name": "Turbomáquinas",
+    "link": "http://www.fi.uba.ar/archivos/6720.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "21",
+    "name": "Mediciones Físicas y Mecánicas",
+    "link": "http://www.fi.uba.ar/archivos/6721.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "22",
+    "name": "Sistemas de Control",
+    "link": "http://www.fi.uba.ar/archivos/6722.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "23",
+    "name": "Conversión de Energía",
+    "link": "http://www.fi.uba.ar/archivos/6723.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "24",
+    "name": "Proyecto de Instalaciones Industriales",
+    "link": "http://www.fi.uba.ar/archivos/6724.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "25",
+    "name": "Elem. de Máquinas",
+    "link": "http://www.fi.uba.ar/archivos/6725.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "26",
+    "name": "Metrología",
+    "link": "http://www.fi.uba.ar/archivos/6726.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "27",
+    "name": "Tecnol. Mecánica II",
+    "link": "http://www.fi.uba.ar/archivos/6727.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "28",
+    "name": "Sistemas Hidráulicos y Neumáticos",
+    "link": "http://www.fi.uba.ar/archivos/6728.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "29",
+    "name": "Proy. de Máquinas",
+    "link": "http://www.fi.uba.ar/archivos/6729.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "30",
+    "name": "Combustión",
+    "link": "http://www.fi.uba.ar/archivos/6730.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "31",
+    "name": "Transf. de Calor y Masa",
+    "link": "http://www.fi.uba.ar/archivos/6731.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "32",
+    "name": "Tecnología del Frío",
+    "link": "http://www.fi.uba.ar/archivos/6732.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "33",
+    "name": "Tecnología del Calor",
+    "link": "http://www.fi.uba.ar/archivos/6733.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "34",
+    "name": "Proy. Instal. Térmicas",
+    "link": "http://www.fi.uba.ar/archivos/6734.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "35",
+    "name": "Computación Aplicada",
+    "link": "/archivos/6735.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "36",
+    "name": "Mecánica Aplicada",
+    "link": "http://www.fi.uba.ar/archivos/6736.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "37",
+    "name": "Máquinas Energéticas",
+    "link": "http://www.fi.uba.ar/archivos/6737.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "38",
+    "name": "Tecnología Mecánica B",
+    "link": "http://www.fi.uba.ar/archivos/6738.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "39",
+    "name": "Dibujo para Ingenieros",
+    "link": "http://www.fi.uba.ar/archivos/6739.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "40",
+    "name": "Diseño de Máq. Herram.",
+    "link": "http://www.fi.uba.ar/archivos/6740.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "41",
+    "name": "Automotores",
+    "link": "http://www.fi.uba.ar/archivos/6741.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "42",
+    "name": "Cont. Num. de Máq. Herram.",
+    "link": "http://www.fi.uba.ar/archivos/6742.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "43",
+    "name": "Robótica Industrial",
+    "link": "http://www.fi.uba.ar/archivos/6743.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "44",
+    "name": "Plantas Térmicas",
+    "link": "http://www.fi.uba.ar/archivos/6744.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "45",
+    "name": "Sist. Cont. en Instal. Térm.",
+    "link": "http://www.fi.uba.ar/archivos/6745.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "46",
+    "name": "Diseño Instal. Térmicas",
+    "link": "http://www.fi.uba.ar/archivos/6746.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "47",
+    "name": "Metalografía",
+    "link": "http://www.fi.uba.ar/archivos/6747.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "48",
+    "name": "Tratamientos Térmicos",
+    "link": "http://www.fi.uba.ar/archivos/6748.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "49",
+    "name": "Metalurgia Física",
+    "link": "http://www.fi.uba.ar/archivos/6749.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "50",
+    "name": "Mat.Ferrosos y sus Aplic.",
+    "link": "http://www.fi.uba.ar/archivos/6750.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "51",
+    "name": "Máquinas Térmicas",
+    "link": "http://www.fi.uba.ar/archivos/6751.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "52",
+    "name": "Termodinámica B",
+    "link": "http://www.fi.uba.ar/archivos/6752.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "53",
+    "name": "Mecánica Computacional I",
+    "link": "/archivos/6753.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "54",
+    "name": "Mecánica Computacional II A (O. Sólidos)",
+    "link": "/archivos/6754.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "55",
+    "name": "Mecánica Computacional II B (O. Fluidos)",
+    "link": "/archivos/6755.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "56",
+    "name": "Técnicas Energéticas",
+    "link": "http://www.fi.uba.ar/archivos/6756.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "57",
+    "name": "Elem. Finitos Avanzados en la Mecánica de Fluidos",
+    "link": "http://www.fi.uba.ar/archivos/6757.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "58",
+    "name": "Intr. al Método de los Elementos Finitos",
+    "link": "http://www.fi.uba.ar/archivos/6758.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "59",
+    "name": "Mecánica del Continuo",
+    "link": "http://www.fi.uba.ar/archivos/6759.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "60",
+    "name": "Intr. al Análisis Tensorial",
+    "link": "http://www.fi.uba.ar/archivos/6760.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "61",
+    "name": "Fund. Matemáticos de la Visión en Robót.",
+    "link": "http://www.fi.uba.ar/archivos/6761.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "62",
+    "name": "Elementos Finitos Avanzados",
+    "link": "http://www.fi.uba.ar/archivos/6762.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "64",
+    "name": "Dibujo",
+    "link": "/archivos/6764.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "65",
+    "name": "Procesos de Fabricación",
+    "link": "/archivos/6765.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "66",
+    "name": "Trabajo Profesional (Or. Diseño Mecánico)",
+    "link": "/archivos/6766.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "67",
+    "name": "Trabajo Profesional (Or. Termomecánica)",
+    "link": "/archivos/6767.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "98",
+    "name": "Trabajo Prof. de Ing. Mecánica \"A\"",
+    "link": "http://www.fi.uba.ar/archivos/6798.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "67",
+    "number": "99",
+    "name": "Trabajo Prof. de Ing. Mecánica \"B\"",
+    "link": "http://www.fi.uba.ar/archivos/6799.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "01",
+    "name": "Medios de Representación C",
+    "link": "http://www.fi.uba.ar/archivos/8701.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "02",
+    "name": "Termodinámica I A",
+    "link": "/archivos/8702.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "04",
+    "name": "Conversión de Energía",
+    "link": "/archivos/8704.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "05",
+    "name": "Sistemas Hidráulicos y Neumáticos",
+    "link": "/archivos/8705.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "06",
+    "name": "Mecánica Aplicada",
+    "link": "/archivos/8706.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "07",
+    "name": "Fuentes y Máquinas Energéticas",
+    "link": "http://www.fi.uba.ar/archivos/8707.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "08",
+    "name": "Tecnología Mecánica B",
+    "link": "/archivos/8708.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "09",
+    "name": "Termodinámica y Mecánica de Fluidos",
+    "link": "http://www.fi.uba.ar/archivos/8709.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "10",
+    "name": "Sistemas de Representación",
+    "link": "http://www.fi.uba.ar/archivos/8710.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "11",
+    "name": "Medios de Representación A",
+    "link": "http://www.fi.uba.ar/archivos/8711.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "12",
+    "name": "Mecanismos",
+    "link": "/archivos/8712.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "12",
+    "name": "1015 Mecanismos",
+    "link": "/archivos/8712-1015.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "13",
+    "name": "Medios de Representación",
+    "link": "http://www.fi.uba.ar/archivos/8713.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "14",
+    "name": "Termodinámica",
+    "link": "/archivos/8714.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "15",
+    "name": "Taller A",
+    "link": "/archivos/8715.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "87",
+    "number": "17",
+    "name": "Máquinas Térmicas",
+    "link": "/archivos/8717.pdf",
+    "depto": "Ingeniería Mecánica"
+  },
+  {
+    "code": "69",
+    "number": "00",
+    "name": "Tesis de Ingeniería Civil (Hidráulica)",
+    "link": "/archivos/6900.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "01",
+    "name": "Hidráulica General",
+    "link": "http://www.fi.uba.ar/archivos/6901.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "02",
+    "name": "Ingeniería Sanitaria",
+    "link": "http://www.fi.uba.ar/archivos/6902.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "03",
+    "name": "Mecánica de los Fluidos A",
+    "link": "http://www.fi.uba.ar/archivos/6903.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "04",
+    "name": "Hidráulica Aplicada",
+    "link": "http://www.fi.uba.ar/archivos/6904.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "05",
+    "name": "Centrales Hidráulicas",
+    "link": "http://www.fi.uba.ar/archivos/6905.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "06",
+    "name": "Modelos Hidráulicos",
+    "link": "http://www.fi.uba.ar/archivos/6906.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "07",
+    "name": "Hidrología",
+    "link": "http://www.fi.uba.ar/archivos/6907.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "08",
+    "name": "Planific. de Recursos Hidráulicos",
+    "link": "http://www.fi.uba.ar/archivos/6908.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "09",
+    "name": "Hidráulica Fluvial y Marítima",
+    "link": "http://www.fi.uba.ar/archivos/6909.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "10",
+    "name": "Construcciones Hidráulicas",
+    "link": "http://www.fi.uba.ar/archivos/6910.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "11",
+    "name": "Gestión Ambiental de los Recursos Hídricos",
+    "link": "http://www.fi.uba.ar/archivos/6911.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "69",
+    "number": "99",
+    "name": "Trabajo Prof. de Ing. Civil",
+    "link": "http://www.fi.uba.ar/archivos/6999.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "01",
+    "name": "Hidráulica General",
+    "link": "http://www.fi.uba.ar/archivos/8901.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "03",
+    "name": "Centrales Hidráulicas",
+    "link": "/archivos/8903.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "04",
+    "name": "Modelos Hidráulicos",
+    "link": "/archivos/8904.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "05",
+    "name": "Hidrología",
+    "link": "http://www.fi.uba.ar/archivos/8905.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "06",
+    "name": "Planificación de Recursos Hidráulicos",
+    "link": "/archivos/8906.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "07",
+    "name": "Construcciones Hidráulicas",
+    "link": "/archivos/8907.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "08",
+    "name": "Gestión Ambiental de Recursos Hídricos",
+    "link": "/archivos/8908.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "09",
+    "name": "Hidráulica Aplicada",
+    "link": "http://www.fi.uba.ar/archivos/8909.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "10",
+    "name": "Aprovechamientos Hidráulicos",
+    "link": "http://www.fi.uba.ar/sites/default/files/8910.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "11",
+    "name": "Ingeniería Sanitaria I",
+    "link": "http://www.fi.uba.ar/sites/default/files/8911.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "12",
+    "name": "Gestión Ambiental en Ingeniería Civil",
+    "link": "/archivos/8912.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "13",
+    "name": "Hidráulica Fluvial",
+    "link": "/archivos/8913.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "14",
+    "name": "Hidráulica Marítima",
+    "link": "http://www.fi.uba.ar/sites/default/files/8914.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "15",
+    "name": "Laboratorio de Hidráulica",
+    "link": "/archivos/8915.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "16",
+    "name": "Ingeniería Sanitaria II",
+    "link": "/archivos/8916.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "89",
+    "number": "17",
+    "name": "Mecánica de los Fluidos",
+    "link": "/archivos/8917.pdf",
+    "depto": "Hidráulica"
+  },
+  {
+    "code": "78",
+    "number": "01",
+    "name": "Idioma Inglés",
+    "link": "http://www.fi.uba.ar/archivos/7801.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "02",
+    "name": "Idioma Alemán",
+    "link": "http://www.fi.uba.ar/archivos/7802.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "03",
+    "name": "Idioma Francés",
+    "link": "http://www.fi.uba.ar/archivos/7803.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "04",
+    "name": "Idioma Italiano",
+    "link": "http://www.fi.uba.ar/archivos/7804.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "05",
+    "name": "Idioma Portugués",
+    "link": "/archivos/7805.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "06",
+    "name": "Inglés Técnico I",
+    "link": "/archivos/7806.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "07",
+    "name": "Inglés Técnico II",
+    "link": "/archivos/7807.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "08",
+    "name": "Inglés Técnico III",
+    "link": "/archivos/7808.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "78",
+    "number": "09",
+    "name": "Inglés Técnico IV",
+    "link": "/archivos/7809.pdf",
+    "depto": "Idiomas"
+  },
+  {
+    "code": "62",
+    "number": "01",
+    "name": "Física I A",
+    "link": "http://www.fi.uba.ar/archivos/6201.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "02",
+    "name": "Física I B",
+    "link": "/archivos/6202.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "03",
+    "name": "Física II A",
+    "link": "http://www.fi.uba.ar/archivos/6203.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "04",
+    "name": "Física II B",
+    "link": "http://www.fi.uba.ar/archivos/6204.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "05",
+    "name": "Fisica III",
+    "link": "http://www.fi.uba.ar/archivos/6205.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "06",
+    "name": "Mecánica I",
+    "link": "http://www.fi.uba.ar/archivos/6206.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "07",
+    "name": "Mecánica II",
+    "link": "http://www.fi.uba.ar/archivos/6207.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "08",
+    "name": "Electromagnetismo A",
+    "link": "http://www.fi.uba.ar/archivos/6208.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "09",
+    "name": "Electromagnetismo B",
+    "link": "http://www.fi.uba.ar/archivos/6209.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "10",
+    "name": "Física del Estado Sólido",
+    "link": "http://www.fi.uba.ar/archivos/6210.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "11",
+    "name": "Mecánica Racional",
+    "link": "http://www.fi.uba.ar/archivos/6211.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "13",
+    "name": "Física III C",
+    "link": "http://www.fi.uba.ar/archivos/6213.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "15",
+    "name": "Física III D",
+    "link": "http://www.fi.uba.ar/archivos/6215.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "18",
+    "name": "Física de Fluidos",
+    "link": "http://www.fi.uba.ar/archivos/6218.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "20",
+    "name": "Física I (Mecánica)",
+    "link": "/archivos/6220.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "21",
+    "name": "Física II (Calor)",
+    "link": "/archivos/6221.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "22",
+    "name": "Física III (Electricidad)",
+    "link": "/archivos/6222.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "62",
+    "number": "23",
+    "name": "Física IV (Hidráulica)",
+    "link": "/archivos/6223.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "01",
+    "name": "Física I",
+    "link": "http://www.fi.uba.ar/archivos/8201.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "02",
+    "name": "Física II",
+    "link": "http://www.fi.uba.ar/archivos/8202.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "03",
+    "name": "Física III",
+    "link": "http://www.fi.uba.ar/archivos/8203.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "04",
+    "name": "Mecánica Racional",
+    "link": "/archivos/8204.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "05",
+    "name": "Física del Estado Sólido",
+    "link": "/archivos/8205.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "06",
+    "name": "Electromagnetismo",
+    "link": "http://www.fi.uba.ar/archivos/8206.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "07",
+    "name": "Física III B",
+    "link": "http://www.fi.uba.ar/sites/default/files/8207.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "11",
+    "name": "Mecánica Racional",
+    "link": "/archivos/8211.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "82",
+    "number": "50",
+    "name": "Física del Estado Sólido",
+    "link": "/archivos/8250.pdf",
+    "depto": "Física"
+  },
+  {
+    "code": "71",
+    "number": "01",
+    "name": "Intr. a la Econom. y Org. de la Empresa",
+    "link": "http://www.fi.uba.ar/archivos/7101.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "02",
+    "name": "Agrimensura Legal I",
+    "link": "http://www.fi.uba.ar/archivos/7102.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "03",
+    "name": "Estadística Técnica",
+    "link": "http://www.fi.uba.ar/archivos/7103.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "04",
+    "name": "Organización Industrial I",
+    "link": "http://www.fi.uba.ar/archivos/7104.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "05",
+    "name": "Organización Industrial II",
+    "link": "http://www.fi.uba.ar/archivos/7105.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "06",
+    "name": "Estructura Económica Argentina",
+    "link": "http://www.fi.uba.ar/archivos/7106.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "07",
+    "name": "Investigación Operativa",
+    "link": "http://www.fi.uba.ar/archivos/7107.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "08",
+    "name": "Organización Industrial III",
+    "link": "http://www.fi.uba.ar/archivos/7108.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "09",
+    "name": "Economía de la Empresa",
+    "link": "/archivos/7109.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "10",
+    "name": "Economía General",
+    "link": "/archivos/7110.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "11",
+    "name": "Organización de Obras",
+    "link": "http://www.fi.uba.ar/archivos/7111.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "12",
+    "name": "Estructura de las Organizaciones",
+    "link": "http://www.fi.uba.ar/archivos/7112.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "13",
+    "name": "Información en las Organizaciones",
+    "link": "http://www.fi.uba.ar/archivos/7113.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "14",
+    "name": "Modelos y Optimización I",
+    "link": "http://www.fi.uba.ar/archivos/7114.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "15",
+    "name": "Modelos y Optimización II",
+    "link": "http://www.fi.uba.ar/archivos/7115.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "16",
+    "name": "Administración de Proyectos",
+    "link": "http://www.fi.uba.ar/archivos/7116.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "17",
+    "name": "Derecho Informático",
+    "link": "/archivos/7117.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "18",
+    "name": "Estructura Económica Argentina",
+    "link": "http://www.fi.uba.ar/archivos/7118.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "19",
+    "name": "Economía de las Organizaciones",
+    "link": "/archivos/7119.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "20",
+    "name": "Modelos y Optimización III",
+    "link": "http://www.fi.uba.ar/archivos/7120.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "21",
+    "name": "Leg. y Ejer. Prof. de la Ing. Civil",
+    "link": "http://www.fi.uba.ar/archivos/7121.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "22",
+    "name": "Leg. y Ejer. Prof. de la Ing. Industrial",
+    "link": "http://www.fi.uba.ar/archivos/7122.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "23",
+    "name": "Economía",
+    "link": "http://www.fi.uba.ar/archivos/7123.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "24",
+    "name": "Agrimensura Legal II",
+    "link": "http://www.fi.uba.ar/archivos/7124.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "25",
+    "name": "Leg. y Ejer. Prof. de la Ing. Mecánica",
+    "link": "http://www.fi.uba.ar/archivos/7125.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "26",
+    "name": "Leg. y Ejerc. Prof. de la Ing. Electricista",
+    "link": "/archivos/7126.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "27",
+    "name": "Leg. y Ejer. Prof. de la Ing. Electrónica",
+    "link": "http://www.fi.uba.ar/archivos/7127.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "28",
+    "name": "Leg. y Ejer. Prof. de la Ing. Química",
+    "link": "http://www.fi.uba.ar/archivos/7128.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "30",
+    "name": "Agrimensura Legal III",
+    "link": "http://www.fi.uba.ar/archivos/7130.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "31",
+    "name": "Organización de la Producción",
+    "link": "http://www.fi.uba.ar/archivos/7131.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "32",
+    "name": "Investigación Operativa Superior",
+    "link": "http://www.fi.uba.ar/archivos/7132.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "33",
+    "name": "Comercializ. de Productos Industriales",
+    "link": "http://www.fi.uba.ar/archivos/7133.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "34",
+    "name": "Gestión Presupuestaria",
+    "link": "http://www.fi.uba.ar/archivos/7134.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "35",
+    "name": "Estadística Técnica Superior",
+    "link": "http://www.fi.uba.ar/archivos/7135.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "36",
+    "name": "Gestión de Calidad",
+    "link": "http://www.fi.uba.ar/archivos/7136.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "37",
+    "name": "Dirección de Manufactura",
+    "link": "http://www.fi.uba.ar/archivos/7137.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "38",
+    "name": "Legislación General",
+    "link": "http://www.fi.uba.ar/archivos/7138.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "39",
+    "name": "Leg. y Ejer. Prof. de la Ing. Electric. B",
+    "link": "http://www.fi.uba.ar/archivos/7139.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "40",
+    "name": "Legislación y Ejercicio Profesional de la Ingeniería en Info",
+    "link": "http://www.fi.uba.ar/archivos/7140.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "41",
+    "name": "Análisis y Resol. de Probl.",
+    "link": "http://www.fi.uba.ar/archivos/7141.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "42",
+    "name": "Circuitos de Información en la Empresa",
+    "link": "http://www.fi.uba.ar/archivos/7142.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "43",
+    "name": "Logística Integral",
+    "link": "http://www.fi.uba.ar/archivos/7143.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "44",
+    "name": "Recursos Humanos",
+    "link": "http://www.fi.uba.ar/archivos/7144.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "45",
+    "name": "Informática p/la Gestión de Empresas",
+    "link": "http://www.fi.uba.ar/archivos/7145.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "46",
+    "name": "Ingeniería Económica",
+    "link": "http://www.fi.uba.ar/archivos/7146.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "49",
+    "name": "Recursos Humanos",
+    "link": "/archivos/7149.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "50",
+    "name": "Ingeniería Económica I",
+    "link": "http://www.fi.uba.ar/archivos/7150.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "51",
+    "name": "Ingeniería Económica II",
+    "link": "http://www.fi.uba.ar/archivos/7151.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "52",
+    "name": "Agrimensura Legal IV",
+    "link": "http://www.fi.uba.ar/archivos/7152.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "53",
+    "name": "Evaluación de Proyectos de Plantas Químicas",
+    "link": "http://www.fi.uba.ar/archivos/7153.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "55",
+    "name": "Economía de la Empresa Alimentaria",
+    "link": "http://www.fi.uba.ar/archivos/7155.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "56",
+    "name": "Legislación y Ejercicio Profesional de la Ing. de Alimentos",
+    "link": "http://www.fi.uba.ar/archivos/7156.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "57",
+    "name": "Métodos Cuantitativos Aplicados en Sistemas Agroalimentarios",
+    "link": "http://www.fi.uba.ar/archivos/7157.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "58",
+    "name": "Análisis y Resol. de Probl. de Sistemas",
+    "link": "http://www.fi.uba.ar/archivos/7158.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "59",
+    "name": "Emprendimientos en Ingeniería",
+    "link": "http://www.fi.uba.ar/archivos/7159.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "60",
+    "name": "Relaciones Humanas",
+    "link": "/archivos/7160.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "61",
+    "name": "Organización de la Producción Naval",
+    "link": "/archivos/7161.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "71",
+    "number": "62",
+    "name": "Legislación Comercial y Laboral",
+    "link": "/archivos/7162.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "02",
+    "name": "Gerenciamiento y Organización de Obras Civiles",
+    "link": "http://www.fi.uba.ar/sites/default/files/9102.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "03",
+    "name": "Estadística Aplicada I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9103.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "04",
+    "name": "Modelos y Optimización I",
+    "link": "http://www.fi.uba.ar/sites/default/files/9104.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "05",
+    "name": "Modelos y Optimización II",
+    "link": "http://www.fi.uba.ar/sites/default/files/9105.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "06",
+    "name": "Modelos y Optimización III",
+    "link": "http://www.fi.uba.ar/sites/default/files/9106.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "07",
+    "name": "Investigación Operativa I",
+    "link": "http://www.fi.uba.ar/archivos/9107.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "09",
+    "name": "Economía",
+    "link": "http://www.fi.uba.ar/archivos/9109.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "10",
+    "name": "Organización Industrial I",
+    "link": "/archivos/9110.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "11",
+    "name": "Legislación y Ejercicio Profesional de la Ing. Electrónica",
+    "link": "http://www.fi.uba.ar/sites/default/files/9111.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "12",
+    "name": "Organización Industrial II",
+    "link": "/archivos/9112.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "13",
+    "name": "Organización de la Producción",
+    "link": "http://www.fi.uba.ar/sites/default/files/9113.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "14",
+    "name": "Informática para Gestión de Empresas",
+    "link": "/archivos/9114.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "15",
+    "name": "Legislación y Ejercicio Profesional de la Ingeniería Electr.",
+    "link": "/archivos/9115.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "16",
+    "name": "Legislación y Ejercicio Profesional de la Ingeniería Civil",
+    "link": "/archivos/9116.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "17",
+    "name": "Recursos Humanos",
+    "link": "http://www.fi.uba.ar/sites/default/files/9117.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "18",
+    "name": "Ingeniería Económica",
+    "link": "http://www.fi.uba.ar/sites/default/files/9118.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "19",
+    "name": "Introducción a la Economía y Organización de la Empresa",
+    "link": "http://www.fi.uba.ar/archivos/9119.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "20",
+    "name": "Comercialización",
+    "link": "http://www.fi.uba.ar/sites/default/files/9120.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "21",
+    "name": "Conflicto y Negociación",
+    "link": "/archivos/9121.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "22",
+    "name": "1017 Comercialización",
+    "link": "/archivos/9122-1017.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "22",
+    "name": "Ingeniería Legal para Ingeniería Industrial",
+    "link": "/archivos/9122.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "24",
+    "name": "Macroeconomía y Estructura Económica Argentina",
+    "link": "/archivos/9124.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "25",
+    "name": "Estadística Aplicada III",
+    "link": "/archivos/9125.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "26",
+    "name": "Dirección de Manufactura",
+    "link": "/archivos/9126.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "27",
+    "name": "Logística",
+    "link": "/archivos/9127.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "28",
+    "name": "Gestión de Costos",
+    "link": "/archivos/9128.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "29",
+    "name": "Ingeniería Económica A",
+    "link": "/archivos/9129.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "30",
+    "name": "Estadística Aplicada II",
+    "link": "/archivos/9130.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "31",
+    "name": "Investigación Operativa II",
+    "link": "/archivos/9131.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "32",
+    "name": "Investigación Operativa III",
+    "link": "/archivos/9132.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "33",
+    "name": "Microeconomía Aplicada",
+    "link": "/archivos/9133.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "34",
+    "name": "Gestión Financiera",
+    "link": "/archivos/9134.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "35",
+    "name": "Análisis de Casos",
+    "link": "/archivos/9135.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "36",
+    "name": "Gestión de Calidad",
+    "link": "http://www.fi.uba.ar/sites/default/files/9136.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "37",
+    "name": "Emprendimientos en Ingeniería",
+    "link": "http://www.fi.uba.ar/archivos/9137.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "39",
+    "name": "Estructuras y Procesos Organizacionales",
+    "link": "http://www.fi.uba.ar/archivos/9139.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "40",
+    "name": "Legislación y Ejercicio Profesional en Sistemas e Informática",
+    "link": "http://www.fi.uba.ar/archivos/9140.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "41",
+    "name": "Economía de las Organizaciones",
+    "link": "http://www.fi.uba.ar/archivos/9141.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "91",
+    "number": "42",
+    "name": "Administración de las Organizaciones",
+    "link": "http://www.fi.uba.ar/archivos/9142.pdf",
+    "depto": "Gestión"
+  },
+  {
+    "code": "64",
+    "number": "00",
+    "name": "Tesis de Ingeniería Civil",
+    "link": "/archivos/6400.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "01",
+    "name": "Estabilidad I A",
+    "link": "http://www.fi.uba.ar/archivos/6401.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "02",
+    "name": "Estabilidad II A",
+    "link": "http://www.fi.uba.ar/archivos/6402.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "03",
+    "name": "Comportamiento de Materiales",
+    "link": "http://www.fi.uba.ar/archivos/6403.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "04",
+    "name": "Estática y Resistenc. de Materiales A",
+    "link": "http://www.fi.uba.ar/archivos/6404.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "05",
+    "name": "Estática y Resistencia de Materiales B",
+    "link": "http://www.fi.uba.ar/archivos/6405.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "07",
+    "name": "Estabilidad III A",
+    "link": "http://www.fi.uba.ar/archivos/6407.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "08",
+    "name": "Mecánica de Suelos",
+    "link": "http://www.fi.uba.ar/archivos/6408.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "10",
+    "name": "Estabilidad IV",
+    "link": "http://www.fi.uba.ar/archivos/6410.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "11",
+    "name": "Estabilidad I B",
+    "link": "http://www.fi.uba.ar/archivos/6411.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "12",
+    "name": "Estabilidad II B",
+    "link": "http://www.fi.uba.ar/archivos/6412.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "13",
+    "name": "Estabilidad III B",
+    "link": "http://www.fi.uba.ar/archivos/6413.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "14",
+    "name": "Método de los Elem.Finitos",
+    "link": "http://www.fi.uba.ar/archivos/6414.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "15",
+    "name": "Estabilidad IV B",
+    "link": "http://www.fi.uba.ar/archivos/6415.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "16",
+    "name": "Análisis Experimental de Tensiones",
+    "link": "http://www.fi.uba.ar/archivos/6416.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "17",
+    "name": "Seguridad Estructural",
+    "link": "http://www.fi.uba.ar/archivos/6417.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "18",
+    "name": "Dinámica de las Estructuras",
+    "link": "http://www.fi.uba.ar/archivos/6418.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "19",
+    "name": "Dinámica de las Estructuras II",
+    "link": "http://www.fi.uba.ar/archivos/6419.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "21",
+    "name": "Estabilidad I (Estática)",
+    "link": "/archivos/6421.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "64",
+    "number": "22",
+    "name": "Estabilidad II (Resistencia de Materiales)",
+    "link": "/archivos/6422.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "00",
+    "name": "Tesis de Ingeniería Civil",
+    "link": "/archivos/8400.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "01",
+    "name": "Introducción a la Ingeniería Civil",
+    "link": "http://www.fi.uba.ar/archivos/8401.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "02",
+    "name": "Estabilidad I",
+    "link": "http://www.fi.uba.ar/archivos/8402.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "03",
+    "name": "Estabilidad II",
+    "link": "http://www.fi.uba.ar/archivos/8403.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "04",
+    "name": "Comportamiento de materiales",
+    "link": "http://www.fi.uba.ar/archivos/8404.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "05",
+    "name": "Estática y Resistencia de Materiales",
+    "link": "http://www.fi.uba.ar/archivos/8405.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "06",
+    "name": "Estabilidad III",
+    "link": "http://www.fi.uba.ar/archivos/8406.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "07",
+    "name": "Mecánica de Suelos y Geología",
+    "link": "http://www.fi.uba.ar/archivos/8407.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "08",
+    "name": "Estabilidad IV",
+    "link": "/archivos/8408.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "09",
+    "name": "Método de los Elementos Finitos",
+    "link": "/archivos/8409.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "10",
+    "name": "Análisis Experimental de Tensiones",
+    "link": "/archivos/8410.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "11",
+    "name": "Seguridad estructural",
+    "link": "http://www.fi.uba.ar/archivos/8411.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "12",
+    "name": "Dinámica de las Estructuras",
+    "link": "http://www.fi.uba.ar/sites/default/files/8412.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "13",
+    "name": "Dinámica de las Estructuras II",
+    "link": "/archivos/8413.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "14",
+    "name": "Análisis Sísmico",
+    "link": "/archivos/8414.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "84",
+    "number": "99",
+    "name": "Trabajo Profesional de Ingeniería Civil",
+    "link": "/archivos/8499.pdf",
+    "depto": "Estabilidad"
+  },
+  {
+    "code": "",
+    "number": "",
+    "name": "Mecánica de Laminados Compuestos",
+    "link": "http://www.fi.uba.ar/materias/mlc/",
+    "depto": "Estabilidad"
+  }
+]
