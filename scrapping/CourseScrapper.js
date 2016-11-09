@@ -2,15 +2,9 @@ var osmosis = require('osmosis');
 var jsonfile = require('jsonfile');
 var parsing = require('./parsing.js');
 var Scrapper = require('./Scrapper.js');
+var Logger = require('../Logger.js');
 
 class CourseScrapper extends Scrapper {
-    constructor() {
-        super();
-        this.collection = [];
-        this.coursesCollection = [];
-        this.departmentsCollection = [];
-    }
-
     getFileName() {
         return __filename
             .replace(__dirname, '')
@@ -19,6 +13,7 @@ class CourseScrapper extends Scrapper {
 
     run() {
         var me = this;
+        var collection = [];
         osmosis
         .get('http://www.fi.uba.ar/es/node/31')
         .find('#block-menu-block-2 .menu__item')
@@ -49,19 +44,23 @@ class CourseScrapper extends Scrapper {
             );
         })
         .data(function(data) {
-            me.collection.push(data);
+            collection.push(data);
         })
-        .error(console.log)
-        .debug(console.log)
+        .error(function(msg) {Logger.error(msg);})
+        .debug(function(msg) {Logger.debug(msg);})
         .done(function() {
-            jsonfile.writeFile(me.file, me.collection, {spaces: 2}, function(err) {
-                if (err) throw err;
-            });
+            me.finish(collection);
         });
+    }
+
+    validateResults() {
+        // TODO implement
+        Logger.debug("MOCK: ASSERT SANITY OK");
+        return true;
     }
 }
 
+module.exports = CourseScrapper;
+
 // var test = new CourseScrapper();
 // test.run();
-
-module.exports =  CourseScrapper;

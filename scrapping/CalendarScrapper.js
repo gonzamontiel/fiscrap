@@ -2,30 +2,38 @@ var parsing = require('./parsing.js');
 var osmosis = require('osmosis');
 var jsonfile = require('jsonfile');
 var Scrapper = require('./Scrapper.js');
+var Sync = require('../Sync.js');
 var fs = require('fs');
+var Logger = require('../Logger.js');
 
 class CalendarScrapper extends Scrapper {
-    run() {
+    run(callback) {
         // Scraps event dates of the current month
         var today = new Date();
         var month = this.padding(today.getMonth() + 1, 2);
         var year = today.getFullYear();
         var isoString = year + "-" + month  + "-";
-
+        this.daysOfMonth = this.monthDays(today);
         // Parse all events of month by date
-        var dateEvents = {};
-        for(var i = 1; i <= this.monthDays(today); i++) {
-            this.parseDayEvents(isoString + this.padding(i, 2), dateEvents);
+        this.dateEvents = {};
+        this.processedDays = 1;
+        for (var i = 1; i <= this.daysOfMonth; i++) {
+            this.parseDayEvents(isoString + this.padding(i, 2));
         }
+    }
 
-        jsonfile.writeFile(
-            this.file,
-            dateEvents,
-            {spaces: 2},
-            function(err) {
-                if (err) throw err;
-            }
-        );
+    validateResults() {
+        // TODO implement
+        Logger.debug("MOCK: ASSERT SANITY OK");
+        return true;
+    }
+
+    onEachDateDone(dateString) {
+        Logger.info("Done parsing events of " + dateString);
+        this.processedDays++;
+        if (this.processedDays === this.daysOfMonth) {
+            this.finish(this.dateEvents);
+        }
     }
 
     monthDays(date) {
@@ -37,34 +45,34 @@ class CalendarScrapper extends Scrapper {
         return ("0".repeat(n-1) + string).slice(-n);
     }
 
-    parseDayEvents(dateString, dateEvents) {
-        console.log("Parsing events of " + dateString);
-        dateEvents[dateString] = [];
-
+    parseDayEvents(dateString) {
+        this.dateEvents[dateString] = [];
+        var me = this;
         osmosis
         .get('http://www.fi.uba.ar/es/calendar-node-field-date/day/' + dateString)
         .find('.calendar .inner .item')
         .set({
-            'event': {
-                'title': '.dayview .contents a',
-                'start': '.date-display-start',
-                'end': '.date-display-end',
-            }
-        })
-        .follow('.dayview .contents a')
-        .then(function(context, data) {
-            var string = context.querySelector('div.field-item.even').innerHTML;
-            string = parsing.removeHtmlChars(string);
-            string = parsing.removeEmptyLines(string);
-            data.extraInfo = string;
+            'title': '.dayview .contents a',
+            'start': '.date-display-start',
+            'end': '.date-display-end',
+            'extra': osmosis
+                .follow('.dayview .contents a')
+                .set(
+                    {
+                        'image': '.field-type-image img @src',
+                        'info': '.field-type-text-with-summary div.field-item.even'
+                    }
+                )
         })
         .data(function(data)
         {
-            console.log(data);
+            me.dateEvents[dateString].push(data);
         })
-        .error(console.log)
-        .debug(console.log)
-        .done();
+        .done(function(){
+            me.onEachDateDone(dateString);
+        })
+        .error(function(msg) {Logger.error(msg);})
+        .debug(function(msg) {Logger.debug(msg);});
     }
 
     getFileName() {
@@ -75,3 +83,7 @@ class CalendarScrapper extends Scrapper {
 }
 
 module.exports = CalendarScrapper;
+
+// testing
+var c = new CalendarScrapper();
+c.run();
