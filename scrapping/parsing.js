@@ -13,8 +13,7 @@ exports.parseCourse = function(asignatura) {
         split[2].replace(/^[\s-_]+/g, "").replace(/[\s-_]+$/g, "")
         : '';
     return {
-        "code": code,
-        "number": number,
+        "code": code + '.' + number,
         "name": name,
         "link": link,
     };
@@ -29,4 +28,13 @@ exports.removeHtmlChars = function(string) {
         .replace(/<\/?br>/g, "")
         .replace(/<\/?p>/g, "")
         .replace(/<\/?strong>/g, "");
-}
+};
+
+
+exports.replaceHtmlTags = function(string) {
+    return string
+        .replace(/<\/?br>/g, "\r\n")
+        .replace(/<p>/g, "")
+        .replace(/<\/p>/g, "\r\n")
+        .replace(/<\/?strong>/g, "");
+};

@@ -1,14 +1,14 @@
 var chai = require('chai');
 var expect = chai.expect;
 
-var parsing = require('../parsing.js');
+var parsing = require('../scrapping/parsing.js');
 
 var normal = "70.01 Geometría Proyectiva <a href=\"http://www.fi.uba.ar/sites/default/files/7001.pdf\">(+)</a>";
 var symbols = "70.01_Geometría Proyectiva- <a href=\"http://www.fi.uba.ar/sites/default/files/7001.pdf\">(+)</a>";
 var invalidSentence = "This is some random no valid sentence.";
 var noCode = "Geometría Proyectiva - <a href=\"http://www.fi.uba.ar/sites/default/files/7001.pdf\">(+)</a>";
 var htmlString = "<p>Esta es una <strong>frase</strong> <a href='#'> este es un link</a> </p><p>";
-var multilineString = "   \nlinea con algo\n linea con algo \r\n    \n\r"
+var multilineString = "   \nlinea con algo\n linea con algo \r\n    \n\r";
 
 describe('parsing', function() {
     it('Happy case: should return an object with four members', function() {
