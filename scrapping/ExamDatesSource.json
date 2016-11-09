@@ -1,0 +1,23 @@
+[
+    {"name": "Agrimensura", "option": "4"},
+    {"name": "Año Pulmón de Ingeniería en Alimentos", "option": "96"},
+    {"name": "Carrera Estudiantes Libres", "option": "91"},
+    {"name": "Carrera Estudiantes Vocacionales (Res 841/168)", "option": "93"},
+    {"name": "Carrera de Estudiantes Extranjeros", "option": "92"},
+    {"name": "Carrera de Estudiantes Internacionales", "option": "90"},
+    {"name": "Doctorados", "option": "95"},
+    {"name": "Homologación de Título", "option": "94"},
+    {"name": "Ingeniería Civil", "option": "1"},
+    {"name": "Ingeniería Electricista", "option": "6"},
+    {"name": "Ingeniería Electrónica", "option": "7"},
+    {"name": "Ingeniería Industrial", "option": "2"},
+    {"name": "Ingeniería Mecánica", "option": "5"},
+    {"name": "Ingeniería Naval", "option": "3"},
+    {"name": "Ingeniería Naval y Mecánica", "option": "3N"},
+    {"name": "Ingeniería Química", "option": "8"},
+    {"name": "Ingeniería de Alimentos", "option": "11"},
+    {"name": "Ingeniería en Agrimensura", "option": "12"},
+    {"name": "Ingeniería en Informática", "option": "10"},
+    {"name": "Licenciatura en Análisis de Sistemas", "option": "9"},
+    {"name": "Tecnicatura Universitaria en Construcciones Navales", "option": "13"}
+]
