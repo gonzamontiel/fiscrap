@@ -21,6 +21,7 @@ for (var i = 0; i < deptos.length; i++) {
     // Create new deptos collection with all deptos
     var newDept  = curDept.info;
     newDept.name = curDept.name;
+    newDept.code = curDept.code;
     newDeptsCollection.push(newDept);
 }
 
