@@ -7,6 +7,9 @@ var Scrapper = require('./Scrapper.js');
 var request = require('request');
 var source = __dirname + '/ExamDatesSource.json';
 
+// Set this to true for using osmosis instead of cheerio for scrapping
+const USE_OSMOSIS = false;
+
 const MAIN_URL = 'http://guaranigrado.fi.uba.ar/autogestion/';
 const POST_URL = 'http://guaranigrado.fi.uba.ar/autogestion/a_general/fechasExamen.php?qs=asdasd';
 const REFERRER_URL = 'http://guaranigrado.fi.uba.ar/autogestion/a_general/elegirTurnoCarrera.php?qs=5820a1e82cb2d0.66080101';
@@ -79,7 +82,11 @@ class ExamDatesScrapper extends Scrapper {
                     return Logger.error('post failed:', err);
                 }
                 if (body) {
-                    me.scrap(body, planName, turn);
+                    if (USE_OSMOSIS) {
+                        me.scrapOsmosis(body, planName, turn);
+                    } else {
+                        me.scrapCheerio(body, planName, turn);
+                    }
                 } else {
                     Logger.error("Could not fetch data from server");
                 }
@@ -118,7 +125,7 @@ class ExamDatesScrapper extends Scrapper {
             return true;
         }
 
-        scrap(body, planName, turn) {
+        scrapCheerio(body, planName, turn) {
             let filename = this.getFileName() + '_' + this.escape(planName);
             let $ = cheerio.load(body);
             var examDates = $('body > .detalle').map(
@@ -131,7 +138,7 @@ class ExamDatesScrapper extends Scrapper {
                     });
                     var info = {
                         'year': $(element).find('.detalle_contenido:icontains("año") .detalle_resaltado:first-child').text().trim(),
-                        'turn': $(element).find('.detalle_contenido:icontains("turno") .detalle_resaltado:first-child').text().trim(),
+                        'turn': turn,
                         'courseCode': courseCode,
                         'courseName': courseName,
                     };
@@ -153,48 +160,66 @@ class ExamDatesScrapper extends Scrapper {
                 Logger.info("DONE: " + planName + " on period: " + turn);
             }
 
-            // DEPRECATED Osmosis version
-            // scrap(body) {
-            //     var datesForPlan = {};
-            //     osmosis.parse(body)
-            //     .find('.detalle')
-            //     .set({
-            //         'year': '.detalle_contenido:icontains("año") .detalle_resaltado[1]',
-            //         'turn': '.detalle_contenido:icontains("turno") .detalle_resaltado[1]',
-            //         'course': '.detalle_contenido:icontains("materia") .detalle_resaltado[1]',
-            //         'dates':  [
-            //             osmosis
-            //             .find(':before(table) table tr.normal')
-            //             .set({
-            //                 name: 'td[1]',
-            //                 date: 'td[2]',
-            //                 type: 'td[3]',
-            //                 inscriptionStartDate: 'td[4]',
-            //                 inscriptionEndDate: 'td[5]'
-            //             })
-            //         ]
-            //     })
-            //     .data(function(data){
-            //         data.course.trim().replace(/\(([^\)]*)\)(.*)$/, function(orig, code, name) {
-            //             data.courseCode = code;
-            //             data.courseName = name.trim();
-            //         });
-            //         delete data.course;
-            //     })
-            //     .data(function(data){
-            //         if (!datesForPlan[data.courseCode]) {
-            //             datesForPlan[data.courseCode] = [];
-            //         }
-            //         datesForPlan[data.courseCode].push(data);
-            //     })
-            //     .error(function(msg) {Logger.error(msg);})
-            //     .debug(function(msg) {Logger.debug(msg);})
-            //     .done(function(data) {
-            //         Logger.info("DONE: " + planName + " on period: ");
-            //         console.log(datesForPlan);
-            //         me.finish(datesForPlan, me.getFileName() + '_' + me.escape(planName));
-            //     });
-            // }
+            scrapOsmosis(body, planName, turn) {
+                var osmosisBody = this.transformBodyForOsmosis(body);
+                var me = this;
+                var datesForPlan = [];
+                osmosis.parse(osmosisBody,
+                    {
+                        follow_set_cookies: true,
+                        follow_set_referer: true
+                    })
+                .find('.detalle')
+                .set({
+                    'year': '.detalle_contenido:icontains("año") .detalle_resaltado[1]',
+                    'turn': turn,
+                    'course': '.detalle_contenido:icontains("materia") .detalle_resaltado[1]',
+                    'dates':  [
+                        osmosis
+                        .find('table tr.normal')
+                        .set({
+                            name: 'td[1]',
+                            date: 'td[2]',
+                            type: 'td[3]',
+                            inscriptionStartDate: 'td[4]',
+                            inscriptionEndDate: 'td[5]'
+                        })
+                        .follow('td[7] a')
+                        .find('.detalle')
+                        .set({
+                            'startTime': '.detalle_contenido:icontains("hora de inicio") .detalle_resaltado[1]',
+                            'endTime': '.detalle_contenido:icontains("hora de finalización") .detalle_resaltado[1]',
+                            'teachers': '.detalle_contenido:icontains("docentes) .detalle_resaltado[1]',
+                        })
+                    ]
+                })
+                .data(function(data){
+                    data.course.trim().replace(/\(([^\)]*)\)(.*)$/, function(orig, code, name) {
+                        data.courseCode = code;
+                        data.courseName = name.trim();
+                    });
+                    delete data.course;
+                    datesForPlan.push(data);
+                })
+                .error(function(msg) {Logger.error(msg);})
+                .debug(function(msg) {Logger.debug(msg);})
+                .done(function(data) {
+                    Logger.info("DONE: " + planName + " on period: " + turn);
+                    me.finish(datesForPlan, me.getFileName() + '_' + me.escape(planName));
+                });
+            }
+
+            // Puts tables inside .detalle" divs (FOR GOD SAKE!)
+            transformBodyForOsmosis(body) {
+                let $ = cheerio.load(body);
+                let outputHtml = "";
+                $('body > table').each(function(index, table) {
+                    var detalle = $('body > .detalle:nth-of-type('+ (index + 1) + ')');
+                    var newElement = $(detalle).clone().append(table);
+                    outputHtml += '<div class="detalle">' + newElement.html() + '</div>';
+                });
+                return outputHtml;
+            }
         }
 
         module.exports = ExamDatesScrapper;

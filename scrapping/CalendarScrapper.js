@@ -15,7 +15,7 @@ class CalendarScrapper extends Scrapper {
         var isoString = year + "-" + month  + "-";
         this.daysOfMonth = this.monthDays(today);
         // Parse all events of month by date
-        this.dateEvents = {};
+        this.dateEvents = [];
         this.processedDays = 1;
         for (var i = 1; i <= this.daysOfMonth; i++) {
             this.parseDayEvents(isoString + this.padding(i, 2));
@@ -46,7 +46,6 @@ class CalendarScrapper extends Scrapper {
     }
 
     parseDayEvents(dateString) {
-        this.dateEvents[dateString] = [];
         var me = this;
         osmosis
         .get('http://www.fi.uba.ar/es/calendar-node-field-date/day/' + dateString)
@@ -66,7 +65,8 @@ class CalendarScrapper extends Scrapper {
         })
         .data(function(data)
         {
-            me.dateEvents[dateString].push(data);
+            data.parsedDate = dateString;
+            me.dateEvents.push(data);
         })
         .done(function(){
             me.onEachDateDone(dateString);
