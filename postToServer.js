@@ -9,10 +9,10 @@ const FILES_PATH = __dirname + "/scrapping/out/";
 var excludes = ".old";
 var inputs = {
     "events": "Calendar.json",
-    "courses": "Course_courses.json",
-    "departments": "Course_departments.json",
     "exams": /ExamDates.*\.json/,
     "news": "News.json"
+    // "courses": "Course_courses.json",
+    // "departments": "Course_departments.json",
 };
 
 /*
