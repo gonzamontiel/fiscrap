@@ -13,6 +13,7 @@ exports.parseCourse = function(asignatura) {
         split[2].replace(/^[\s-_]+/g, "").replace(/[\s-_]+$/g, "")
         : '';
     return {
+        "depCode": code,
         "code": code + '.' + number,
         "name": name,
         "link": link,
@@ -29,7 +30,6 @@ exports.removeHtmlChars = function(string) {
         .replace(/<\/?p>/g, "")
         .replace(/<\/?strong>/g, "");
 };
-
 
 exports.replaceHtmlTags = function(string) {
     return string

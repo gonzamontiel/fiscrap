@@ -10,18 +10,24 @@ var newDeptsCollection = [];
 
 for (var i = 0; i < deptos.length; i++) {
     var curDept = deptos[i];
+    let depCode = null;
     // Create new course collection with all courses
     for (var j = 0; j < curDept.courses.length; j++) {
         // Avoid empty courses
         if (curDept.courses[j].name) {
             var course = curDept.courses[j];
             newCoursesCollection.push(course);
+            if (!depCode) {
+                depCode = course.depCode;
+            }
         }
     }
     // Create new deptos collection with all deptos
     var newDept  = curDept.info;
     newDept.name = curDept.name;
-    newDept.code = curDept.code;
+    if (!newDept.code && depCode) {
+        newDept.code = depCode;
+    }
     newDeptsCollection.push(newDept);
 }
 
