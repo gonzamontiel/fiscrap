@@ -29,8 +29,11 @@ class NewsScrapper extends Scrapper {
             'thumbnail': '.field-type-image .field-item img @src'
         })
         .follow('a @href')
+        .then(function(context, data) {
+             var html = context.querySelector('.field-type-text-with-summary .field-item').innerHTML;
+             data.text = html;
+        })
         .set({
-            'text': '.field-type-text-with-summary .field-item',
             'img': '.field-type-image img @src'
         })
         .data(function(data) {
