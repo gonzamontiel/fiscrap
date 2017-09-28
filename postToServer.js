@@ -4,6 +4,11 @@ var jsonfile = require('jsonfile');
 var fs = require('fs');
 var Logger = require("./Logger.js");
 
+var host =  config.get('server.host');
+var port = config.get('server.port');
+var serverUrl = host + ':' + port;
+var apiBasePath = config.get('server.api');
+
 const FILES_PATH = __dirname + "/scrapping/out/";
 
 function ressponse_callback(error, response, body) {
@@ -18,14 +23,12 @@ module.exports = function() {
     var excludes = ".old";
     var inputs = {
         "events": "Calendar.json",
-        "news": "News.json"
-        // "exams": /ExamDates.*\.json/,
-        // "courses": "Course_courses.json",
-        // "departments": "Course_departments.json",
+        "news": "News.json",
+        "exams": /ExamDates.*\.json/
     };
 
     /*
-    * We should be making POST to urls such us:
+    * We are making POST to urls such us:
     * server/api/load/courses
     *
     */
@@ -37,7 +40,7 @@ module.exports = function() {
                 console.log("Posting " + file);
                 request(
                     {
-                        url: "http://localhost:3030/api/load/" + collecionName,
+                        url: "http://" + serverUrl + apiBasePath + collecionName,
                         method: 'POST',
                         json: true,
                         body: data
@@ -48,3 +51,6 @@ module.exports = function() {
         });
     }
 }
+
+doPost = module.exports;
+doPost();
